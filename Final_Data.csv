@@ -1,0 +1,965 @@
+society,price,price_per_sqft,area,bedRoom,bathroom,balcony,floorNum,facing,agePossession,Environment Rating,Lifestyle Rating ,Connectivity Rating,Saftey Rating,furnishing_status,Private Garden / Terrace,Maintenance Staff,Water Storage,Park,Visitor Parking,Waste Disposal,Rain Water Harvesting,Security,cumulative_weight,latitude,longitude,region_cluster
+Gated Community,5.25,20115,2610,5,4,3+,3,2,0 to 1 Year Old,5,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0.5,28.3846684,77.0220391,0
+independent,5.7,105751,539,5,4,2,2,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,0,0,1,1,0,0,0,2.5,28.4601,77.02635,0
+independent,2.1,38251,549,10,10,3+,5,7,0 to 1 Year Old,5,5,5,5,Fully Furnished,0,1,1,1,1,1,0,0,0.5,28.4545693,77.0826249,0
+independent,5,43066,1161,21,21,3+,5,1,1 to 5 Year Old,4,5,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0.5,28.441611,77.1118718,0
+independent,3,53763,558,12,12,3+,5,7,0 to 1 Year Old,5,5,5,5,Fully Furnished,0,1,1,1,1,1,0,0,0.5,28.4545693,77.0826249,0
+independent,4.5,39062,1152,20,20,3+,4,0,1 to 5 Year Old,5,5,5,5,Fully Furnished,0,0,1,1,1,1,0,0,0.5,28.4545693,77.0826249,0
+Gated Community,12,37037,3240,5,5,3+,3,0,0 to 1 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,1,0,0,1,2.5,28.3974292,77.0538823,0
+Gated Community,15.7,48889,4091,16,16,3+,4,0,0 to 1 Year Old,5,5,5,5,Fully Furnished,0,0,0,1,1,0,0,0,0.5,28.4714278,77.0939848,0
+independent,10.85,38150,2844,6,6,1,3,2,1 to 5 Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,1,1,28.483901,77.0846097,0
+Gated Community,1.95,10077,1935,3,4,3+,4,7,0 to 1 Year Old,5,5,5,5,Fully Furnished,0,1,1,1,1,0,0,1,0.5,28.4601,77.02635,0
+independent,4.45,32963,1350,4,3,3+,2,7,5 to 10 Year Old,5,5,5,5,Fully Furnished,0,1,1,1,1,0,0,0,1,28.483901,77.0846097,0
+independent,9,27778,3240,6,7,3+,3,1,5 to 10 Year Old,5,4,5,5,Fully Furnished,1,0,1,1,1,1,0,1,3.5,28.6273247,75.96433886,1
+Gated Community,5,34083,1467,13,13,3+,4,1,0 to 1 Year Old,4,5,5,4,Fully Furnished,1,0,1,1,1,0,0,1,1,28.4601,77.02635,0
+independent,15,33200,4518,5,6,3+,3,1,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,0,0,0,3.5,28.4601,77.02635,0
+independent,8.25,30556,2700,5,6,3+,3,7,5 to 10 Year Old,4,4,4,4,Fully Furnished,1,0,1,1,1,1,0,0,3.5,28.4601,77.02635,0
+independent,2,14914,1341,6,4,3,3,0,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,0,1,1,1,0,0,0,2,28.4601,77.02635,0
+Gated Community,10.75,29861,3600,9,9,3+,3,6,10+ Year Old,5,5,5,5,Fully Furnished,1,0,0,1,1,0,0,1,2.5,28.483901,77.0846097,0
+independent,2.1,23333,900,7,7,3+,3,2,1 to 5 Year Old,4,4,5,4,Fully Furnished,0,1,1,0,0,0,0,0,3,28.4351423,77.0403538,0
+Gated Community,7.35,41762,1760,4,4,3+,3,4,5 to 10 Year Old,5,5,5,5,Fully Furnished,0,1,0,1,1,0,1,0,1.5,28.4150509,77.0642955,0
+independent,4.45,15451,2880,6,6,3,3,1,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.4601,77.02635,0
+independent,3.4,12938,2628,9,9,3,3,7,5 to 10 Year Old,4,4,4,4,Fully Furnished,1,0,0,1,1,0,0,0,0,28.3840986,76.8861337,0
+Gated Community,12,38095,3150,5,6,3+,3,2,1 to 5 Year Old,3,4,4,4,Fully Furnished,1,1,1,0,0,0,0,1,1.5,28.3974292,77.0538823,0
+independent,8.4,25926,3240,4,4,3,2,0,10+ Year Old,4,4,5,4,Fully Furnished,0,0,1,1,0,0,0,0,1.5,28.4104903,77.0394627,0
+Gated Community,8.5,26235,3240,4,4,2,2,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,0,1,2.5,28.4104903,77.0394627,0
+independent,7.6,38760,1961,9,9,3,4,0,1 to 5 Year Old,5,5,5,5,Fully Furnished,0,1,1,1,1,0,1,1,3,28.483901,77.0846097,0
+Gated Community,7,25926,2700,5,5,3+,3,2,1 to 5 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,2.5,28.4601,77.02635,0
+Gated Community,4.75,9374,5067,5,5,1,1,5,10+ Year Old,5,5,5,5,Fully Furnished,1,0,1,1,1,1,1,0,2.5,28.4750063,77.0103535,0
+independent,3.5,13410,2610,9,9,3+,3,2,1 to 5 Year Old,4,4,4,4,Fully Furnished,0,0,0,0,0,0,0,1,1,28.4621791,77.0000718,0
+independent,5,21124,2367,9,9,3+,3,3,5 to 10 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,0,0,0,0,1.5,28.4500427,77.0577093,0
+independent,10.56,32593,3240,5,5,3,3,0,5 to 10 Year Old,5,5,5,5,Fully Furnished,0,1,1,1,1,0,0,0,0.5,28.4150509,77.0642955,0
+Gated Community,5.46,24170,2259,4,5,3+,2,0,1 to 5 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,0,0,1,3,28.4601,77.02635,0
+independent,10,37037,2700,5,6,3,3,1,10+ Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,1.5,28.483901,77.0846097,0
+independent,9,28490,3159,10,10,3,3,0,10+ Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,1,28.483901,77.0846097,0
+independent,10,122222,818,4,4,3+,1,2,0 to 1 Year Old,4,4,5,4,Fully Furnished,0,0,0,0,0,0,1,0,0.5,28.4601,77.02635,0
+independent,1.95,13542,1440,2,2,2,2,0,10+ Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.3760277,76.9122152,0
+independent,3.3,19097,1728,4,4,2,3,5,5 to 10 Year Old,4,4,4,4,Fully Furnished,1,1,0,1,1,0,1,0,1,28.4601,77.02635,0
+Gated Community,13,48148,2700,12,16,3+,4,2,0 to 1 Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.4601,77.02635,0
+independent,7.2,22222,3240,3,3,2,1,1,10+ Year Old,5,5,5,5,Fully Furnished,1,0,1,1,1,0,0,0,1,28.4646148,77.0299194,0
+Gated Community,6,22222,2700,4,4,3+,3,0,10+ Year Old,4,5,5,4,Fully Furnished,1,1,1,1,1,1,0,1,1,28.4741302,77.0825722,0
+independent,9,33333,2700,5,5,3,3,1,10+ Year Old,5,5,5,5,Fully Furnished,0,1,1,1,1,1,1,1,3.5,28.483901,77.0846097,0
+independent,5.8,32222,1800,5,5,3+,2,1,10+ Year Old,5,5,5,5,Fully Furnished,0,0,1,1,1,1,1,1,3.5,28.4714278,77.0939848,0
+Gated Community,0.55,7290,754,2,1,1,1,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,0,0,1,1,28.4601,77.02635,0
+independent,7.49,27741,2700,12,12,3+,4,5,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,2.5,28.4274166,77.1097538,0
+independent,13.5,50000,2700,16,16,3+,4,3,1 to 5 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,3,28.4601,77.02635,0
+independent,11.95,43534,2745,12,12,3+,4,7,1 to 5 Year Old,4,5,5,4,Fully Furnished,0,0,1,1,1,1,1,0,0.5,28.4253232,77.0985157,0
+independent,12.39,45889,2700,16,18,3+,4,2,0 to 1 Year Old,4,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,1.5,28.4253232,77.0985157,0
+Gated Community,6.25,34722,1800,5,5,3,2,0,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,0,0,0,1.5,28.483901,77.0846097,0
+Gated Community,3.6,19231,1809,5,5,3+,3,0,1 to 5 Year Old,3,4,4,4,Fully Furnished,1,1,1,0,0,0,0,1,2.5,28.3974292,77.0538823,0
+Gated Community,5.4,20690,2610,4,5,3+,3,1,1 to 5 Year Old,5,4,4,4,Fully Furnished,1,1,1,1,0,0,0,1,3.5,28.4601,77.02635,0
+independent,5.75,29716,1935,4,4,2,2,1,10+ Year Old,4,4,4,4,Fully Furnished,0,0,0,1,1,1,0,0,2.5,28.4601,77.02635,0
+independent,2.55,16378,1557,3,3,2,2,4,10+ Year Old,5,5,5,4,Fully Furnished,0,0,0,1,0,0,0,0,0,28.4983353,77.0203007,0
+independent,5.6,17284,3240,8,6,3+,2,6,5 to 10 Year Old,5,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,3.5,28.4983353,77.0203007,0
+independent,15.7,37777,4500,5,8,3+,3,2,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.4405031,77.0595974,0
+Gated Community,7.99,12519,6382,4,6,3,2,5,0 to 1 Year Old,5,4,4,3,Fully Furnished,1,1,1,0,0,0,0,1,2.5,28.4601,77.02635,0
+Gated Community,3.75,25562,1467,6,6,3,3,0,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,0,1,0,0.5,28.4601,77.02635,0
+Gated Community,7.25,27971,2592,3,4,2,2,4,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.4104903,77.0394627,0
+Gated Community,8.4,21000,4000,4,5,3+,2,1,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,0,1,0,2.5,28.4104903,77.0394627,0
+independent,3.55,24500,1449,4,4,3+,2,0,10+ Year Old,4,4,5,4,Fully Furnished,0,0,1,0,0,0,1,0,0,28.4274166,77.1097538,0
+Gated Community,2.5,7058,3542,4,4,3+,3,0,5 to 10 Year Old,4,4,3,4,Fully Furnished,0,1,1,1,1,0,0,1,3.5,28.4007588,76.9210802,0
+Gated Community,2.5,7058,3542,4,4,3+,3,0,5 to 10 Year Old,5,5,4,4,Fully Furnished,0,1,1,0,0,0,0,1,3.5,28.3981205,76.9411257,0
+Gated Community,9,11250,6430.5,5,5,3+,3,2,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,0,0,0,0,1,0.5,28.4601,77.02635,0
+independent,2.1,23333,900,3,3,2,3,1,5 to 10 Year Old,4,4,4,4,Fully Furnished,1,0,1,1,1,1,1,0,0.5,28.4500427,77.0577093,0
+independent,4.5,20000,2250,5,5,1,1,0,1 to 5 Year Old,4,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4730128,77.0482686,0
+independent,6.5,35400,1836,5,4,3+,3,5,5 to 10 Year Old,4,4,4,4,Fully Furnished,0,0,1,0,0,0,0,0,1.5,28.4601,77.02635,0
+independent,9.5,40135,2367,12,12,3+,4,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,0,0,1,1,1,0,0,1,1,28.4500427,77.0577093,0
+independent,5,16244,3078,4,4,2,2,0,10+ Year Old,4,5,5,4,Fully Furnished,0,0,1,0,0,0,0,0,0,28.510319,77.0530094,0
+Gated Community,5.5,21605,2546,4,4,3+,2,2,0 to 1 Year Old,5,4,3,4,Fully Furnished,0,1,1,1,1,0,0,1,0.5,28.5109205,77.0065956,0
+Gated Community,5.65,10463,5400,4,4,3+,2,2,0 to 1 Year Old,5,4,3,4,Fully Furnished,1,1,1,1,1,1,1,0,1,28.5109205,77.0065956,0
+Gated Community,8.8,41615,2115,4,4,3+,3,5,1 to 5 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,1,0,0,1,2.5,28.3974292,77.0538823,0
+independent,3.25,14444,2250,3,3,2,2,5,10+ Year Old,5,5,5,5,Fully Furnished,0,0,0,1,1,0,0,0,0,28.4750063,77.0103535,0
+independent,5,10101,4950,3,3,2,1,2,10+ Year Old,5,5,5,5,Fully Furnished,0,0,0,1,1,0,0,0,0,28.4750063,77.0103535,0
+independent,10.45,38703,2700,4,5,2,3,1,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,1,2.5,28.4120009,77.0649962,0
+Gated Community,15.7,22222,6430.5,5,6,3,2,1,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,0,0,0,0,0,3.5,28.4104903,77.0394627,0
+independent,7.5,23148,3240,5,5,3+,2,0,1 to 5 Year Old,4,4,4,4,Fully Furnished,1,1,1,0,0,0,0,1,1.5,28.3931076,76.9588762,0
+independent,0.67,8557,783,3,2,1,1,4,5 to 10 Year Old,4,4,5,4,Fully Furnished,0,0,1,1,1,0,0,0,1.5,28.4601,77.02635,0
+Gated Community,5.75,16428,3500,4,4,2,3,5,1 to 5 Year Old,5,4,3,4,Fully Furnished,1,1,1,1,1,0,0,1,0.5,28.5109205,77.0065956,0
+Gated Community,5.7,10556,5400,4,5,3+,3,0,1 to 5 Year Old,5,4,3,4,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.4601,77.02635,0
+independent,3.2,13519,2367,3,3,2,1,0,10+ Year Old,4,4,4,4,Fully Furnished,1,0,0,1,1,0,0,0,0,28.3840986,76.8861337,0
+independent,11.5,42032,2736,12,13,3+,4,7,1 to 5 Year Old,4,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,2.5,28.4253232,77.0985157,0
+Gated Community,7.69,24069,3195,4,5,3,2,3,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,0,0,0,0,0,3.5,28.4104903,77.0394627,0
+independent,7,21605,3240,4,4,3+,1,2,1 to 5 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,2.5,28.3931076,76.9588762,0
+independent,1.55,13889,1116,2,2,2,1,0,5 to 10 Year Old,4,4,4,4,Fully Furnished,0,0,0,1,1,0,0,0,0,28.4662572,77.0142654,0
+independent,3.85,14650,2628,4,4,3,3,3,10+ Year Old,4,4,4,4,Fully Furnished,0,0,0,1,1,0,0,0,0,28.3760277,76.9122152,0
+independent,2,13889,1440,2,2,2,2,3,10+ Year Old,4,4,4,4,Fully Furnished,0,0,0,1,1,0,0,0,0,28.3760277,76.9122152,0
+independent,3.1,13778,2250,3,3,2,2,3,10+ Year Old,4,4,4,4,Fully Furnished,0,0,0,1,1,0,0,0,0,28.3760277,76.9122152,0
+independent,2.25,15625,1440,3,3,2,2,3,10+ Year Old,4,4,4,4,Fully Furnished,0,0,0,1,1,0,0,0,0,28.3760277,76.9122152,0
+independent,7,23333,3000,4,4,2,3,2,10+ Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,1,0.5,28.4150509,77.0642955,0
+Gated Community,8.5,21250,4000,4,5,3+,2,1,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,3,28.4104903,77.0394627,0
+Gated Community,8.7,38667,2250,4,5,2,3,0,0 to 1 Year Old,3,4,4,4,Fully Furnished,1,1,1,0,0,0,0,0,1.5,28.3974292,77.0538823,0
+Gated Community,12.5,26667,4687,5,6,3,3,0,1 to 5 Year Old,5,4,3,4,Fully Furnished,1,1,1,1,1,1,1,0,3.5,28.5109205,77.0065956,0
+Gated Community,6.8,12593,5400,4,5,3,2,3,1 to 5 Year Old,5,4,3,4,Fully Furnished,1,1,1,1,1,1,1,0,0.5,28.5109205,77.0065956,0
+Gated Community,9.5,26389,3600,7,6,3,3,7,1 to 5 Year Old,5,4,3,4,Fully Furnished,1,1,1,0,0,0,0,0,2.5,28.5109205,77.0065956,0
+Gated Community,7,12963,5400,5,6,2,2,7,1 to 5 Year Old,5,4,3,4,Fully Furnished,1,1,1,0,0,0,0,1,0.5,28.5109205,77.0065956,0
+Gated Community,6.2,25514,2430,5,5,2,2,6,1 to 5 Year Old,5,4,3,4,Fully Furnished,1,1,1,0,0,0,0,0,0.5,28.5109205,77.0065956,0
+Gated Community,3.6,24845,1449,5,5,3+,3,2,5 to 10 Year Old,4,5,5,4,Fully Furnished,0,1,1,1,1,1,1,0,0.5,28.4253232,77.0985157,0
+Gated Community,3.05,17650,1728,5,5,2,2,1,10+ Year Old,4,4,5,4,Fully Furnished,0,0,0,1,1,0,0,1,1,28.4601,77.02635,0
+Gated Community,5.9,24280,2430,4,5,2,2,0,1 to 5 Year Old,5,4,3,4,Fully Furnished,0,1,1,1,1,0,0,1,0.5,28.462276,77.0410012,0
+Gated Community,5.85,26423,2214,4,5,3+,2,0,1 to 5 Year Old,5,4,3,4,Fully Furnished,0,1,1,1,1,0,0,1,0.5,28.462276,77.0410012,0
+Gated Community,4,6666,6001,4,4,3+,2,2,1 to 5 Year Old,5,4,4,4,Fully Furnished,1,1,1,0,0,0,0,1,0.5,28.3846684,77.0220391,0
+Gated Community,5.35,8916,6000,4,4,3+,3,1,1 to 5 Year Old,5,4,4,4,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.3846684,77.0220391,0
+independent,6.6,36667,1800,6,7,3+,2,0,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,0,1.5,28.4601,77.02635,0
+Gated Community,6.3,9000,6430.5,4,5,3+,2,7,1 to 5 Year Old,5,4,3,4,Fully Furnished,1,1,0,1,1,0,0,1,0,28.4726807,77.090741,0
+Gated Community,12,20000,6000,5,6,3,2,2,1 to 5 Year Old,5,4,3,4,Fully Furnished,1,1,1,0,0,0,0,1,1.5,28.4601,77.02635,0
+independent,0.65,9028,720,3,2,1,1,0,1 to 5 Year Old,4,4,4,4,Fully Furnished,0,0,1,1,1,0,0,0,1.5,28.493768,77.00577,0
+independent,0.55,4074,1350,3,3,2,2,4,1 to 5 Year Old,4,4,5,4,Fully Furnished,0,0,0,1,1,1,0,0,0.5,28.4601,77.02635,0
+independent,0.85,630,6430.5,3,3,1,1,1,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0.5,28.4601,77.02635,0
+independent,0.58,86567,67,2,2,1,2,7,5 to 10 Year Old,4,4,5,4,Fully Furnished,0,0,1,0,0,0,0,0,1.5,28.4601,77.02635,0
+independent,0.65,92857,70,1,1,1,1,5,5 to 10 Year Old,4,4,5,4,Fully Furnished,0,0,1,1,1,0,1,0,0.5,28.4601,77.02635,0
+independent,0.61,100000,61,2,2,2,2,5,5 to 10 Year Old,4,4,5,4,Fully Furnished,0,0,1,0,0,0,1,0,0.5,28.4601,77.02635,0
+independent,0.67,88157,76,3,3,2,2,4,1 to 5 Year Old,4,4,5,4,Fully Furnished,0,0,0,1,1,0,0,0,0.5,28.4601,77.02635,0
+Gated Community,5.8,29974,1935,6,6,3,2,6,1 to 5 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,1,28.4545693,77.0826249,0
+Gated Community,6,24691,2430,4,5,3+,2,1,1 to 5 Year Old,5,4,3,4,Fully Furnished,0,1,1,1,1,0,0,1,0.5,28.462276,77.0410012,0
+independent,6.25,2778,6430.5,9,9,3+,3,2,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,0,1,1,1,0,0,0,0.5,28.4232478,77.0804487,0
+Gated Community,7.05,46906,1503,18,18,3+,4,2,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,1,0.5,28.4601,77.02635,0
+independent,4.5,25000,1800,16,16,3+,4,4,1 to 5 Year Old,4,4,5,4,Fully Furnished,0,0,0,1,1,1,0,0,0,28.4552808,77.0237905,0
+independent,3.69,23699,1557,4,4,2,2,0,5 to 10 Year Old,5,5,5,4,Fully Furnished,1,1,0,1,1,0,0,1,2.5,28.4540044,77.0497179,0
+independent,2.5,25960,963,7,7,3,4,7,1 to 5 Year Old,5,5,5,5,Fully Furnished,0,0,0,1,1,0,0,0,0.5,28.4545693,77.0826249,0
+independent,5.5,28424,1935,1,1,0,1,6,10+ Year Old,5,5,5,5,Fully Furnished,0,0,0,1,1,0,0,0,0.5,28.4545693,77.0826249,0
+Gated Community,15,33333,4500,4,4,2,2,7,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,1,0.5,28.4150509,77.0642955,0
+Gated Community,6.95,4490,6430.5,3,3,1,2,2,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,1,0.5,28.4601,77.02635,0
+Gated Community,5.7,14729,3870,5,5,2,2,2,10+ Year Old,5,5,5,4,Fully Furnished,1,1,1,1,1,0,0,0,1,28.4601,77.02635,0
+Gated Community,11.3,25111,4500,7,5,3+,4,0,1 to 5 Year Old,5,4,3,4,Fully Furnished,1,1,1,1,1,1,1,0,3,28.5109205,77.0065956,0
+Gated Community,11.25,25000,4500,7,5,3+,4,2,1 to 5 Year Old,5,4,3,4,Fully Furnished,1,1,0,1,1,0,1,0,2.5,28.5109205,77.0065956,0
+Gated Community,4.02,7309,5500,4,4,3+,3,2,1 to 5 Year Old,5,4,4,4,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.3846684,77.0220391,0
+Gated Community,5.7,10556,5400,4,4,3+,4,0,1 to 5 Year Old,5,4,3,4,Fully Furnished,1,1,1,1,1,0,0,1,1.5,28.4601,77.02635,0
+independent,1,74074,135,9,7,3+,3,1,5 to 10 Year Old,4,4,4,4,Fully Furnished,0,0,0,0,0,0,0,0,2,28.4601,77.02635,0
+independent,0.66,12000,550,3,1,1,3,0,1 to 5 Year Old,4,4,4,4,Unfurnished,0,0,1,1,1,0,0,0,0.5,28.4601,77.02635,0
+Gated Community,0.7,10233,684,3,2,1,2,2,0 to 1 Year Old,4,4,5,4,Fully Furnished,0,0,0,1,1,0,0,0,1,28.4601,77.02635,0
+independent,1.45,26852,540,3,3,1,2,0,10+ Year Old,4,5,5,4,Fully Furnished,1,0,0,0,0,0,0,0,0,28.503445,77.0952048,0
+Gated Community,0.95,8878,1070,4,3,2,1,0,10+ Year Old,3,4,4,4,Fully Furnished,0,0,0,1,0,0,0,0,0,26.91667,87.91667,-1
+independent,4.5,14286,3150,9,9,3+,3,0,1 to 5 Year Old,4,4,4,4,Fully Furnished,1,0,1,1,1,0,1,0,2.5,28.4690266,76.9962811,0
+independent,0.9,8928,1008,3,1,0,1,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.45,8007,562,3,2,1,1,2,10+ Year Old,4,4,5,4,Fully Furnished,0,0,0,0,0,0,0,0,0,28.4601,77.02635,0
+independent,1,11111,900,4,3,3+,4,2,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0.5,28.6273247,75.96433886,1
+Gated Community,0.6,5698,1053,5,4,3+,2,1,1 to 5 Year Old,4,4,5,4,Fully Furnished,0,0,0,0,0,0,0,0,1,28.4601,77.02635,0
+independent,7,28283,2475,7,7,3+,3,6,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.4597391,77.0612091,0
+independent,3.93,24214,1623,19,17,3,4,3,1 to 5 Year Old,4,4,5,5,Fully Furnished,1,0,1,1,1,1,0,0,3.5,28.4601,77.02635,0
+independent,4,26613,1503,4,4,3+,2,0,1 to 5 Year Old,4,5,5,4,Fully Furnished,1,0,1,1,0,0,0,0,0,28.4253232,77.0985157,0
+independent,0.75,138888,54,2,1,0,1,0,10+ Year Old,4,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.9,10000,900,6,4,3,3,2,10+ Year Old,4,4,4,4,Fully Furnished,0,0,1,1,1,0,0,0,1,28.4621977,77.0185742,0
+independent,2.75,7666,3587,7,7,3+,3,2,5 to 10 Year Old,4,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0.5,28.503445,77.0952048,0
+Gated Community,0.5,7407,675,5,4,3,3,6,1 to 5 Year Old,4,4,5,4,Fully Furnished,0,0,1,1,0,1,1,0,1,28.4601,77.02635,0
+independent,0.5,8333,600,3,3,2,2,0,5 to 10 Year Old,4,5,5,4,Unfurnished,1,1,1,1,1,1,1,0,1,28.6273247,75.96433886,1
+independent,0.42,4666,900,2,2,1,1,0,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,27.9689,82.50038,-1
+independent,0.6,13333,450,3,3,0,3,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,0.48,60000,80,2,2,0,2,5,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,0,1,0,0,0,0,0,0,28.4601,77.02635,0
+independent,0.5,11111,450,5,3,3,3,0,5 to 10 Year Old,3,4,4,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.35,7778,450,2,2,1,2,0,0 to 1 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,4,40775,981,4,3,2,2,0,1 to 5 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4714278,77.0939848,0
+independent,2.4,99173,242,8,4,2,2,0,10+ Year Old,4,4,5,4,Unfurnished,1,0,1,0,0,0,0,0,0,28.4601,77.02635,0
+Gated Community,2.2,12222,1800,4,3,2,1,4,10+ Year Old,4,4,5,4,Unfurnished,1,0,0,1,1,0,0,0,2,28.4714278,77.0939848,0
+independent,1.1,6172,1782,8,8,0,1,0,0 to 1 Year Old,4,3,4,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.3247096,76.9263787,0
+independent,8,22222,3600,4,5,3+,1,2,10+ Year Old,4,4,4,4,Fully Furnished,1,0,1,1,1,0,0,0,2.5,28.4662572,77.0142654,0
+independent,0.82,9111,900,4,3,3,2,1,5 to 10 Year Old,4,4,5,4,Fully Furnished,0,0,1,0,0,0,0,0,0,28.3761832,76.8917951,0
+independent,0.9,80357,112,3,3,0,2,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4967161,77.0274408,0
+independent,0.7,4117,1700,4,4,1,2,0,5 to 10 Year Old,4,4,4,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.3585156,77.0797901,0
+independent,0.95,7308,1300,5,3,0,1,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,1.3,8701,1494,4,4,2,1,0,10+ Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.36,8000,450,1,1,0,1,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,3.5,25926,1350,6,6,3,3,0,1 to 5 Year Old,4,5,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4772236,77.0832762,0
+independent,0.8,6666,1200,8,8,2,1,0,1 to 5 Year Old,4,4,4,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.3671851,76.920669,0
+independent,0.15,2296,653,2,1,0,1,0,10+ Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,0.8,8888,900,9,5,3+,3,0,10+ Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.6273247,75.96433886,1
+independent,6,33333,1800,8,5,3+,3,0,10+ Year Old,5,5,5,5,Fully Furnished,1,0,0,0,0,0,0,0,0,28.4714278,77.0939848,0
+Gated Community,2.8,12444,2250,10,7,3,1,0,10+ Year Old,4,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,3,28.4601,77.02635,0
+Gated Community,2.75,9793,2808,4,4,3+,3,0,1 to 5 Year Old,5,4,4,3,Fully Furnished,1,1,1,1,1,1,1,0,2,28.4089049,76.9155232,0
+Gated Community,1.75,6250,2800,4,4,0,14,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,3.1,8486,3653,5,5,3+,21,0,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4021644,77.0382675,0
+independent,1.16,11717,990,5,4,2,1,2,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,0.85,7589,1120,3,2,2,1,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,0,0,0,1,1,0,0,0,0,28.24737,77.06544,0
+independent,0.9,13333,675,4,4,0,2,0,0 to 1 Year Old,3,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,0.34,12592,270,2,2,2,3,7,5 to 10 Year Old,4,4,4,4,Fully Furnished,0,0,1,1,1,0,0,0,0,28.4601,77.02635,0
+independent,5,15384,3250,6,6,2,1,4,0 to 1 Year Old,5,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.5115958,77.0364654,0
+Gated Community,0.36,7843,459,2,2,1,1,2,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,1,28.4601,77.02635,0
+independent,5,22222,2250,3,3,3,1,4,5 to 10 Year Old,4,5,5,4,Fully Furnished,1,0,0,0,0,0,0,0,0,28.473784,77.0471827,0
+Gated Community,9.5,23333,4071,5,7,3+,2,0,0 to 1 Year Old,3,4,4,4,Fully Furnished,0,1,1,1,1,1,1,1,3.5,28.4384785,77.0251655,0
+independent,7.25,29336,2471,8,8,3+,0,2,5 to 10 Year Old,4,5,5,4,Fully Furnished,0,0,0,0,0,0,0,0,0,28.4253232,77.0985157,0
+independent,1.5,10288,1458,3,3,0,2,0,10+ Year Old,4,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,1.3,11284,1152,3,2,1,3,0,1 to 5 Year Old,4,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4156048,76.931638,0
+independent,3.75,11029,3400,5,5,3+,3,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4806013,77.0187839,0
+Gated Community,0.37,10277,360,4,3,2,3,0,1 to 5 Year Old,4,4,4,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.493768,77.00577,0
+independent,2.25,6944,3240,10,10,2,1,0,0 to 1 Year Old,3,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,1.15,8518,1350,5,3,2,2,2,10+ Year Old,4,4,4,4,Fully Furnished,0,0,1,1,0,1,0,0,1,28.4621977,77.0185742,0
+independent,0.95,10555,900,3,2,2,3,5,10+ Year Old,4,4,5,4,Fully Furnished,0,0,0,1,0,0,0,0,1,28.4601,77.02635,0
+independent,0.49,11250,436,6,3,2,3,0,5 to 10 Year Old,4,4,5,4,Unfurnished,0,0,0,1,0,0,0,0,0,28.4601,77.02635,0
+independent,1.45,557,6430.5,4,4,2,2,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,0,0,1,1,1,0,0,1.5,28.4967161,77.0274408,0
+Gated Community,0.8,8888,900,2,2,1,1,0,10+ Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,1.6,11852,1350,5,5,2,3,0,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.85,8947,950,6,6,2,2,1,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,0,1,1,1,1,1,0,3,52.44889,9.74,-1
+independent,7,39265,1783,5,5,2,3,2,1 to 5 Year Old,5,5,5,5,Fully Furnished,1,0,0,0,0,0,0,0,0.5,28.4714278,77.0939848,0
+independent,0.5,6083,822,3,2,1,1,0,0 to 1 Year Old,5,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,8,230547,347,10,10,3+,1,1,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4351423,77.0403538,0
+independent,0.45,8411,535,3,2,1,1,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.62,32291,192,6,6,0,3,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,1,41666,240,6,4,0,3,0,0 to 1 Year Old,3,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,4.12,8889,4635,2,1,3+,2,0,5 to 10 Year Old,4,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.95,7280,1305,7,6,3+,3,0,10+ Year Old,3,3,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.45,90000,50,5,3,0,1,0,0 to 1 Year Old,4,4,5,3,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.45,10089,446,5,3,2,3,0,10+ Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4533282,77.0195396,0
+Gated Community,1.87,8697,2150,3,4,0,12,0,0 to 1 Year Old,5,4,3,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4420223,76.9538495,0
+independent,0.85,8500,1000,1,1,0,1,0,0 to 1 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.6273247,75.96433886,1
+independent,0.42,9333,450,5,3,2,2,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,0.42,8235,510,3,3,0,2,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,1,28.4601,77.02635,0
+independent,1.2,13333,900,7,4,1,2,6,5 to 10 Year Old,4,4,4,4,Fully Furnished,0,0,1,1,1,0,0,0,0.5,28.493768,77.00577,0
+independent,6.5,21667,3000,5,6,0,1,0,0 to 1 Year Old,5,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4214768,77.0528259,0
+independent,3.75,20425,1836,4,4,3+,3,0,10+ Year Old,4,4,5,4,Fully Furnished,1,0,1,0,0,0,1,0,0,28.4601,77.02635,0
+independent,2.5,5472,4569,3,2,1,2,0,10+ Year Old,4,4,5,4,Fully Furnished,0,0,0,1,0,0,0,0,0,28.4601,77.02635,0
+independent,2.25,6944,3240,36,36,2,3,0,5 to 10 Year Old,3,4,5,3,Unfurnished,0,0,1,0,0,0,0,0,0.5,28.4601,77.02635,0
+independent,0.75,57692,130,2,2,0,1,0,0 to 1 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.3,60000,50,6,3,3,3,4,5 to 10 Year Old,4,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,3.6,19231,1809,6,4,2,2,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,0,0,1,1,0,1,0,0,0,28.4522331,77.0267159,0
+independent,1.35,3857,3500,5,3,3,3,0,0 to 1 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,4.7,21759,2160,3,3,2,2,1,10+ Year Old,4,4,4,4,Unfurnished,1,0,1,1,1,0,1,0,1,28.4545693,77.0826249,0
+Gated Community,0.6,8333,720,4,2,1,0,0,10+ Year Old,4,4,5,4,Fully Furnished,0,0,1,0,0,0,0,0,0.5,28.6273247,75.96433886,1
+independent,0.22,7407,297,2,2,2,1,0,0 to 1 Year Old,5,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,1.65,75000,220,9,9,0,1,0,0 to 1 Year Old,3,3,4,3,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.5,10482,477,5,3,0,1,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,2.3,25386,906,6,6,0,0,0,10+ Year Old,4,4,4,4,Fully Furnished,1,0,1,0,0,0,0,0,0.5,28.4601,77.02635,0
+independent,1.25,8735,1431,10,6,3+,3,0,10+ Year Old,4,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,1.7,9444,1800,1,1,2,1,0,0 to 1 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,6,20000,3000,4,4,1,2,0,1 to 5 Year Old,5,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.5115958,77.0364654,0
+independent,2.8,18667,1500,4,4,0,2,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4233556,77.1051327,0
+independent,3.12,18889,1652,4,2,1,1,0,10+ Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.07,2525,277,1,1,0,1,0,1 to 5 Year Old,4,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.3241636,77.0848644,0
+independent,3.5,24306,1440,3,3,2,1,0,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4351423,77.0403538,0
+Gated Community,2.58,17695,1458,4,2,2,2,0,0 to 1 Year Old,4,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,8.5,21519,3950,4,4,3+,27,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.3964476,77.086498,0
+Gated Community,4,17817,2245,7,7,3+,4,0,0 to 1 Year Old,4,4,5,4,Unfurnished,1,0,1,1,1,0,0,0,0,28.4601,77.02635,0
+independent,1.45,2,6430.5,4,3,3+,3,4,5 to 10 Year Old,4,4,5,5,Fully Furnished,1,1,1,1,1,1,1,0,0,28.347879,76.7522376,0
+independent,0.6,6173,972,8,3,2,3,0,10+ Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,1.1,55000,200,4,3,1,2,2,10+ Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,2.5,13888,1800,9,5,2,1,5,10+ Year Old,3,4,5,4,Fully Furnished,0,0,0,1,0,0,0,0,1,28.4601,77.02635,0
+independent,3.5,20323,1722,3,2,2,1,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4351423,77.0403538,0
+Gated Community,2.95,20359,1449,2,2,2,1,1,5 to 10 Year Old,4,5,5,4,Fully Furnished,1,0,1,1,1,0,0,0,0,28.4253232,77.0985157,0
+independent,0.7,5833,1200,3,2,2,1,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,1.16,11693,992,5,4,2,3,2,5 to 10 Year Old,4,4,4,4,Fully Furnished,1,0,1,1,1,0,0,0,0.5,28.4601,77.02635,0
+independent,15.7,26667,6000,6,5,2,3,0,1 to 5 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,8.5,53125,1600,12,12,3+,4,1,0 to 1 Year Old,5,4,5,5,Fully Furnished,1,0,1,1,1,0,0,1,0,28.4601,77.02635,0
+Gated Community,8.95,17900,5000,5,6,3+,4,0,5 to 10 Year Old,4,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4741302,77.0825722,0
+independent,14,39886,3510,9,9,3+,4,1,5 to 10 Year Old,4,4,4,4,Fully Furnished,0,0,1,0,0,0,0,0,0.5,28.4601,77.02635,0
+Gated Community,0.85,126865,67,5,2,2,1,0,10+ Year Old,3,4,5,4,Fully Furnished,0,0,1,1,1,0,0,0,1,28.4601,77.02635,0
+independent,1.35,40909,330,4,5,0,3,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,13.2,27155,4861,6,6,0,2,0,0 to 1 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4212898,77.062917,0
+Gated Community,6,14492,4140,9,9,3+,3,3,10+ Year Old,4,5,5,4,Fully Furnished,1,0,0,0,0,0,0,0,0,28.4601,77.02635,0
+Gated Community,0.51,14167,360,4,4,3,4,0,0 to 1 Year Old,4,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,1.1,11111,990,6,4,1,2,1,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,3.6,19231,1809,2,2,1,1,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4532911,77.017516,0
+independent,2.5,13157,1900,5,5,3+,2,0,1 to 5 Year Old,4,4,4,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4480039,76.9697682,0
+independent,0.53,5888,900,2,2,0,1,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,2,11111,1800,2,2,1,2,0,1 to 5 Year Old,4,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.63,7875,800,4,2,1,2,5,10+ Year Old,4,4,5,4,Fully Furnished,0,0,1,0,0,0,0,0,0.5,28.6273247,75.96433886,1
+independent,8,9654,6430.5,10,10,3+,4,0,1 to 5 Year Old,4,5,5,4,Fully Furnished,1,0,1,1,0,0,0,1,2.5,28.4601,77.02635,0
+independent,0.45,4808,936,1,1,0,1,0,0 to 1 Year Old,3,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.37,8222,450,2,2,1,1,0,5 to 10 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0.5,28.4601,77.02635,0
+independent,1.72,11111,1548,6,3,1,2,0,10+ Year Old,4,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,0.5,28.4714278,77.0939848,0
+independent,1.35,3857,3500,10,6,3+,3,0,10+ Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.3445779,77.0681342,0
+independent,0.5,50000,100,2,2,0,1,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4421059,77.1112654,0
+independent,0.62,11273,550,3,1,0,2,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,8,8000,6430.5,3,9,2,3,0,0 to 1 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,0,28.483901,77.0846097,0
+independent,1.8,7627,2360,4,5,0,13,0,0 to 1 Year Old,5,4,4,3,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4089049,76.9155232,0
+independent,1.7,5666,3000,4,4,3+,1,2,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4030162,77.0695893,0
+independent,0.55,5000,1100,2,1,0,1,0,0 to 1 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,1.5,5000,3000,6,1,0,1,0,0 to 1 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,1.55,6567,2360,3,2,0,1,0,0 to 1 Year Old,5,4,3,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4420223,76.9538495,0
+independent,0.32,22068,145,2,2,0,3,0,0 to 1 Year Old,4,3,4,3,Fully Furnished,1,1,1,1,1,1,1,0,0,28.44515,76.93947,0
+independent,2.1,8386,2504,4,3,0,2,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,5.6,12444,4500,34,34,3+,4,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.65,11111,585,4,2,2,2,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,1.6,28674,558,4,6,1,3,0,1 to 5 Year Old,4,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.78,9725,802,4,4,0,3,2,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.95,21111,450,2,1,1,3,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,0,0,1,1,0,0,0,0,0,28.4621977,77.0185742,0
+Gated Community,3.85,7500,5133,5,6,3+,6,0,0 to 1 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,0,28.3858766,76.9639317,0
+independent,0.66,10784,612,3,2,1,2,0,10+ Year Old,3,4,5,4,Fully Furnished,0,0,1,1,1,0,0,0,0,28.4601,77.02635,0
+independent,0.45,12162,370,4,4,2,4,1,5 to 10 Year Old,4,4,4,3,Fully Furnished,0,0,1,0,0,0,0,0,0,28.4601,77.02635,0
+independent,0.85,8910,954,1,2,0,1,0,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,1.5,10518,1426,2,2,2,3,6,10+ Year Old,4,5,5,4,Fully Furnished,0,0,1,0,0,1,0,0,2,28.4601,77.02635,0
+independent,1.52,19869,765,2,2,1,1,5,10+ Year Old,4,4,5,5,Fully Furnished,0,0,1,1,1,0,0,0,0,28.4156048,76.931638,0
+independent,1,8796,1137,3,2,2,1,1,10+ Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,1,28.6273247,75.96433886,1
+independent,1.05,9722,1080,3,2,0,1,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.85,7522,1130,3,3,0,1,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.58,5658,1025,4,2,1,2,0,10+ Year Old,4,4,5,5,Fully Furnished,0,0,1,0,0,0,0,0,1,28.4601,77.02635,0
+independent,0.45,5000,900,3,2,0,1,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,1.35,24545,550,5,3,2,3,5,10+ Year Old,4,4,5,4,Fully Furnished,0,1,0,1,1,0,0,0,0,28.4601,77.02635,0
+independent,0.7,7701,909,2,2,0,1,2,5 to 10 Year Old,3,3,4,3,Fully Furnished,1,0,1,0,0,0,0,0,0,28.6273247,75.96433886,1
+independent,1.4,8235,1700,2,2,1,3,0,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,5.15,14072,3660,5,5,0,1,0,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4423675,77.0504724,0
+Gated Community,6.5,26000,2500,5,5,0,4,0,5 to 10 Year Old,4,5,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.473784,77.0471827,0
+Gated Community,3.5,24305,1440,6,5,3,3,0,10+ Year Old,5,5,5,5,Unfurnished,1,1,1,1,1,1,1,0,0,28.4758035,77.0607773,0
+independent,13.5,19286,6430.5,9,9,0,1,0,1 to 5 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,5.7,22634,2518,9,9,3+,3,2,5 to 10 Year Old,5,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,1,28.4983353,77.0203007,0
+Gated Community,3.3,26570,1242,1,1,0,2,0,0 to 1 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4545693,77.0826249,0
+independent,1.75,11111,1575,4,2,2,2,0,10+ Year Old,4,4,4,4,Fully Furnished,1,0,1,1,1,0,0,0,0.5,28.4601,77.02635,0
+Gated Community,0.75,6410,1170,4,2,2,2,7,10+ Year Old,4,4,4,4,Fully Furnished,1,0,1,0,0,0,0,0,0,28.4973905,77.020526,0
+independent,3.5,133079,263,8,8,3+,3,5,1 to 5 Year Old,3,4,4,4,Fully Furnished,1,0,0,1,1,0,0,0,2.5,28.4701041,77.0315426,0
+independent,0.92,15257,603,4,1,0,1,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.52,5778,900,3,2,2,2,0,0 to 1 Year Old,4,4,4,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,1.1,6111,1800,8,4,3+,2,7,10+ Year Old,4,4,5,4,Fully Furnished,0,0,1,0,0,0,0,0,0,28.4601,77.02635,0
+Gated Community,0.75,15625,480,4,4,2,1,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,1.25,78125,160,2,3,0,1,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,4.25,17955,2367,4,3,2,1,2,0 to 1 Year Old,4,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4445813,77.0060231,0
+independent,0.37,7916,467,1,1,1,1,0,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,5.7,211111,270,4,4,0,1,0,0 to 1 Year Old,4,5,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4421059,77.1112654,0
+independent,0.8,80000,100,13,6,3+,3,4,5 to 10 Year Old,4,4,4,3,Fully Furnished,1,1,1,1,1,1,1,0,3,28.4601,77.02635,0
+independent,2.1,35000,600,3,2,1,3,0,0 to 1 Year Old,5,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.3846684,77.0220391,0
+independent,1.1,10000,1100,5,4,2,1,0,0 to 1 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,0.6,120000,50,5,3,2,3,1,5 to 10 Year Old,3,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0.5,28.6273247,75.96433886,1
+independent,1.2,22297,538,4,4,3+,4,7,10+ Year Old,4,4,5,4,Fully Furnished,0,0,0,1,0,0,0,0,0,28.4243234,77.0383471,0
+independent,4.5,125000,360,4,4,0,4,0,0 to 1 Year Old,5,4,5,5,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.8,8889,900,4,4,0,2,0,10+ Year Old,3,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4500334,77.0211592,0
+independent,1.1,73333,150,2,2,1,2,0,10+ Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0.5,28.4601,77.02635,0
+Gated Community,3.6,19231,1809,5,1,0,1,0,10+ Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4421059,77.1112654,0
+independent,3,11111,2700,4,4,0,1,0,0 to 1 Year Old,4,3,4,3,Fully Furnished,1,1,1,1,1,1,1,0,0,28.44515,76.93947,0
+Gated Community,8.5,26235,3240,4,6,3,3,1,10+ Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,2,28.4104903,77.0394627,0
+Gated Community,1.1,6790,1620,5,3,1,2,0,10+ Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,2,28.4249957,77.0683336,0
+independent,0.75,20833,360,7,4,3+,4,0,5 to 10 Year Old,4,5,5,4,Fully Furnished,0,0,1,0,0,0,0,0,0,28.4772236,77.0832762,0
+independent,6,315789,190,9,6,2,2,2,10+ Year Old,3,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.6273247,75.96433886,1
+independent,0.82,10224,802,4,4,0,2,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.35,3500,1000,1,4,1,1,0,5 to 10 Year Old,5,4,4,5,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4154398,77.1570233,0
+independent,1.15,3285,3501,3,2,1,1,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,1.85,74000,250,3,3,3,1,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.3864052,77.0598046,0
+Gated Community,8.5,27139,3132,6,6,3+,3,0,0 to 1 Year Old,4,4,4,5,Fully Furnished,1,0,1,0,0,0,0,0,2,28.4809525,77.0090778,0
+independent,0.9,10000,900,4,5,3,3,7,0 to 1 Year Old,4,4,5,4,Fully Furnished,0,0,1,0,0,0,0,0,0.5,28.4601,77.02635,0
+independent,0.5,5555,900,2,1,2,1,0,10+ Year Old,4,4,5,4,Fully Furnished,0,0,0,0,0,0,0,0,1,28.4967161,77.0274408,0
+independent,5.75,23662,2430,4,4,2,4,1,0 to 1 Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,1,1.5,28.4601,77.02635,0
+independent,4.65,17574,2646,5,5,3+,1,0,5 to 10 Year Old,4,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,7.2,13333,5400,4,4,3+,4,0,10+ Year Old,4,4,5,4,Fully Furnished,0,0,0,0,0,0,0,0,1.5,28.4601,77.02635,0
+independent,0.6,10753,558,3,3,1,2,0,1 to 5 Year Old,5,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,4.5,9091,4950,4,5,2,2,0,10+ Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,1.3,23557,552,5,2,1,3,6,10+ Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0.5,28.6273247,75.96433886,1
+independent,3.2,59259,540,14,14,3+,6,7,1 to 5 Year Old,4,5,5,4,Fully Furnished,0,0,1,1,0,0,0,0,0,28.4601,77.02635,0
+independent,0.6,105263,57,3,3,1,2,0,10+ Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0.5,28.4601,77.02635,0
+Gated Community,1.95,21195,920,3,5,3+,2,0,5 to 10 Year Old,4,4,4,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4795324,76.9937197,0
+Gated Community,1.25,151,6430.5,10,6,2,3,5,10+ Year Old,4,4,4,4,Fully Furnished,0,0,1,0,0,1,0,0,0.5,28.4601,77.02635,0
+Gated Community,6.1,25103,2430,5,6,3+,2,0,5 to 10 Year Old,5,4,3,4,Fully Furnished,0,1,0,1,0,0,0,0,0.5,28.5109205,77.0065956,0
+independent,0.5,13889,360,5,3,3,3,0,10+ Year Old,3,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,2,14954,1337,3,1,0,3,1,5 to 10 Year Old,4,3,4,4,Unfurnished,1,0,1,0,0,0,0,0,0,28.3247096,76.9263787,0
+Gated Community,2.1,23333,900,8,8,3+,4,5,5 to 10 Year Old,4,5,5,4,Fully Furnished,1,0,1,1,1,1,1,0,0.5,28.4772236,77.0832762,0
+Gated Community,1.25,8784,1423,3,3,2,1,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,1.5,28.4601,77.02635,0
+independent,0.65,6500,1000,6,2,3,1,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.3593202,77.077969,0
+Gated Community,11.5,35494,3240,5,6,0,1,3,0 to 1 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4150509,77.0642955,0
+independent,0.9,11464,785,5,4,3,3,3,5 to 10 Year Old,3,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,3,28.47748,77.037207,0
+Gated Community,0.75,11718,640,5,4,3,2,0,5 to 10 Year Old,4,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,1.3,11555,1125,3,3,1,2,1,5 to 10 Year Old,4,4,4,4,Fully Furnished,1,0,1,0,0,1,0,0,0,28.493768,77.00577,0
+Gated Community,0.48,50000,96,2,2,1,1,2,0 to 1 Year Old,4,4,4,3,Fully Furnished,0,1,0,1,1,0,0,1,2.5,28.6273247,75.96433886,1
+independent,0.68,3874,1755,5,3,0,1,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,1.5,7576,1980,7,2,0,1,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.3627664,76.9193261,0
+independent,1.3,11556,1125,3,3,1,1,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.6,10753,558,2,2,1,1,2,5 to 10 Year Old,5,5,5,4,Fully Furnished,0,0,0,1,0,0,0,0,0,28.4601,77.02635,0
+Gated Community,6.5,20635,3150,4,4,3+,2,0,5 to 10 Year Old,4,5,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.473784,77.0471827,0
+independent,0.49,10378,472,2,1,0,1,0,10+ Year Old,4,4,5,5,Fully Furnished,0,0,1,0,0,0,0,0,0,39.11251,-100.35875,-1
+independent,1.07,11888,900,2,2,1,1,0,10+ Year Old,4,4,4,4,Fully Furnished,0,0,1,0,0,0,0,0,0.5,28.4655641,77.0392943,0
+independent,2.1,17284,1215,6,6,3+,3,0,1 to 5 Year Old,4,4,5,4,Fully Furnished,0,0,1,1,1,1,0,0,0,28.6273247,75.96433886,1
+independent,4.6,32258,1426,2,2,2,2,0,0 to 1 Year Old,5,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4527426,77.0431979,0
+independent,1,11111,900,3,4,2,2,0,1 to 5 Year Old,3,4,4,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4967161,77.0274408,0
+independent,1.1,12222,900,6,4,1,1,6,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,2.95,16389,1800,4,3,2,3,1,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,0,0,1,1.5,28.3960701,77.0372311,0
+Gated Community,4.6,31506,1460,6,4,3+,3,0,10+ Year Old,5,5,5,4,Fully Furnished,0,0,0,1,0,0,0,0,0.5,28.4601,77.02635,0
+independent,0.35,9722,360,2,2,1,2,5,10+ Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,1.5,12820,1170,12,9,1,3,0,1 to 5 Year Old,4,4,5,4,Fully Furnished,0,1,1,1,1,0,0,1,3,28.4601,77.02635,0
+independent,10,229885,435,8,10,3+,1,7,0 to 1 Year Old,4,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,5.2,10000,5200,4,5,2,1,0,0 to 1 Year Old,5,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.5115958,77.0364654,0
+independent,0.4,8889,450,1,1,0,1,0,5 to 10 Year Old,4,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,0.62,12400,500,3,3,1,2,0,5 to 10 Year Old,4,4,4,3,Fully Furnished,0,0,0,0,0,0,0,0,0.5,28.4714278,77.0939848,0
+independent,0.5,9259,540,5,3,2,3,7,10+ Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,5,232,6430.5,6,5,3+,2,0,0 to 1 Year Old,5,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,3,28.4166536,77.0611745,0
+independent,0.92,15257,603,4,4,3,4,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0.5,28.4601,77.02635,0
+independent,3.5,218750,160,6,6,3+,3,3,0 to 1 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,0.8,54794,146,5,4,3,3,0,0 to 1 Year Old,4,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,1.5,14245,1053,2,3,2,1,1,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,0,1,1,1,0,1,0,2,28.3241636,77.0848644,0
+independent,2.25,6367,3534,3,5,3+,10,4,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.493087,76.9866453,0
+independent,13.5,37313,3618,5,6,3+,4,2,10+ Year Old,5,5,5,5,Fully Furnished,0,0,1,1,1,0,0,1,0.5,28.483901,77.0846097,0
+independent,0.5,90909,55,12,4,3,4,0,10+ Year Old,3,4,5,4,Fully Furnished,0,0,1,1,0,0,0,0,0,28.47748,77.037207,0
+Gated Community,1.7,9444,1800,1,1,1,1,0,10+ Year Old,3,4,4,4,Fully Furnished,0,0,0,1,1,0,0,0,0.5,28.4601,77.02635,0
+independent,0.45,5000,900,3,2,1,2,3,10+ Year Old,4,4,4,4,Fully Furnished,0,0,1,0,0,0,0,0,0.5,28.4601,77.02635,0
+Gated Community,3.6,19231,1809,5,3,2,3,0,5 to 10 Year Old,4,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,1.2,10122,1186,6,2,1,2,3,10+ Year Old,4,4,4,4,Fully Furnished,1,0,0,0,0,1,0,0,0,28.4601,77.02635,0
+independent,1.8,10000,1800,4,3,1,1,2,10+ Year Old,4,4,4,4,Fully Furnished,1,0,1,0,0,0,0,0,0,28.4601,77.02635,0
+independent,1.5,8642,1736,5,3,2,2,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.3864052,77.0598046,0
+Gated Community,0.35,6481,540,2,2,0,1,2,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.5007712,77.0398992,0
+independent,0.55,6707,820,2,2,1,2,5,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,4.3,245398,175,13,13,3+,5,3,1 to 5 Year Old,4,4,5,4,Fully Furnished,0,0,0,0,0,0,0,0,0,28.4601,77.02635,0
+Gated Community,0.4,9259,432,1,1,1,1,0,5 to 10 Year Old,4,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,3.6,19231,1809,4,4,3+,4,1,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,0,0,1,1.5,28.4601,77.02635,0
+independent,3,11904,2520,4,4,0,3,2,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,0.43,9135,471,3,3,3,2,0,1 to 5 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.6273247,75.96433886,1
+independent,0.32,7111,450,2,3,1,1,2,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.47,8012,587,2,1,1,1,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,1,28.4601,77.02635,0
+Gated Community,5.5,183333,300,9,9,3+,3,4,5 to 10 Year Old,4,5,5,4,Fully Furnished,0,1,0,1,0,0,1,0,2,28.4368166,77.0795276,0
+Gated Community,0.75,12500,600,3,5,3,3,5,5 to 10 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4621977,77.0185742,0
+independent,0.71,10142,700,4,2,1,2,0,0 to 1 Year Old,3,3,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.38,8444,450,2,2,1,1,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,3.25,8125,4000,4,3,3+,20,0,0 to 1 Year Old,4,4,4,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.493087,76.9866453,0
+Gated Community,0.53,14583,363,4,4,2,3,0,1 to 5 Year Old,3,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,2.3,17037,1350,5,3,3+,3,2,10+ Year Old,4,4,4,4,Fully Furnished,0,0,1,1,1,0,0,0,2.5,28.3760277,76.9122152,0
+independent,1.5,11538,1300,10,7,3,4,0,5 to 10 Year Old,3,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4457089,77.0335861,0
+Gated Community,1.1,8730,1260,9,3,3,3,0,10+ Year Old,3,4,3,4,Fully Furnished,0,0,0,1,1,0,0,0,0,28.4601,77.02635,0
+independent,1.35,12222,1105,5,5,1,3,0,10+ Year Old,3,4,4,4,Fully Furnished,1,0,1,1,1,0,0,0,0,28.4601,77.02635,0
+Gated Community,1.3,14444,900,6,4,2,3,2,5 to 10 Year Old,5,5,5,5,Fully Furnished,0,0,0,0,0,0,1,0,1.5,28.4608629,77.0292838,0
+independent,1.25,11574,1080,5,5,1,2,4,0 to 1 Year Old,4,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,1,38.07086,-95.36554,-1
+independent,3.6,19231,1809,7,2,2,2,4,10+ Year Old,3,3,4,3,Fully Furnished,0,0,1,0,0,0,0,0,0,28.445846,77.0209819,0
+Gated Community,1.44,26667,540,4,2,2,1,0,10+ Year Old,4,5,5,4,Unfurnished,0,0,0,1,0,0,0,0,0,28.4601,77.02635,0
+Gated Community,0.5,11111,450,2,2,2,2,7,0 to 1 Year Old,4,4,5,4,Fully Furnished,0,0,0,1,1,0,1,0,3,28.462276,77.0410012,0
+independent,1,8230,1215,9,7,3+,3,1,5 to 10 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,1,28.4601,77.02635,0
+independent,5.5,13095,4200,9,9,3+,3,4,5 to 10 Year Old,5,4,4,5,Fully Furnished,1,1,1,1,1,1,1,0,1,28.5056942,77.0463022,0
+Gated Community,5.5,30556,1800,4,3,3,2,1,10+ Year Old,4,5,5,4,Fully Furnished,0,0,1,1,0,0,1,0,1.5,28.4772236,77.0832762,0
+independent,0.8,11852,675,5,3,1,2,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.9,10000,900,7,4,3+,4,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,0,0,1,0,0,0,0,0,0,28.4532911,77.017516,0
+independent,4.3,29311,1467,6,4,2,2,0,5 to 10 Year Old,5,4,5,5,Unfurnished,1,1,1,1,1,1,1,0,0.5,28.4251572,77.0475128,0
+Gated Community,0.9,11250,800,5,5,3,3,0,1 to 5 Year Old,4,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4522331,77.0267159,0
+independent,3.25,30384,1070,4,4,3,3,0,10+ Year Old,4,5,5,4,Fully Furnished,0,0,1,1,0,0,0,0,0,28.503445,77.0952048,0
+independent,0.38,8444,450,1,1,1,1,3,5 to 10 Year Old,4,4,5,4,Fully Furnished,0,0,0,0,0,0,0,0,0,28.4714278,77.0939848,0
+independent,3.71,19818,1872,3,3,1,4,0,5 to 10 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,1,28.4601,77.02635,0
+Gated Community,13,1992,6430.5,10,10,3+,1,0,0 to 1 Year Old,5,4,5,5,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.4,7619,525,2,2,1,1,0,1 to 5 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.55,98214,56,4,4,0,2,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,1.3,13499,963,5,3,2,3,0,10+ Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.467026,77.0136083,0
+Gated Community,0.75,7820,959,2,2,3,1,0,0 to 1 Year Old,5,4,4,3,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.3,5555,540,1,1,2,1,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.18,4000,450,2,1,1,1,0,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,1.55,14720,1053,2,3,2,1,1,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,2,28.3241636,77.0848644,0
+independent,0.32,5664,565,5,1,0,1,0,0 to 1 Year Old,4,3,4,3,Fully Furnished,1,1,1,1,1,1,1,0,0,28.44515,76.93947,0
+independent,4,19753,2025,5,4,1,2,2,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4522331,77.0267159,0
+independent,0.38,76000,50,2,2,2,1,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,12,37037,3240,5,6,3+,3,0,0 to 1 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4212898,77.062917,0
+Gated Community,8,63492,1260,2,1,0,1,0,0 to 1 Year Old,5,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4527426,77.0431979,0
+independent,0.45,9000,500,1,1,1,3,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.3761832,76.8917951,0
+independent,1.2,4444,2700,7,3,0,3,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4522331,77.0267159,0
+Gated Community,0.4,2500,1600,4,2,2,1,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4753259,77.0258279,0
+independent,1,6667,1500,1,1,0,1,0,0 to 1 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.6273247,75.96433886,1
+independent,0.5,3704,1350,5,2,0,2,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,1.15,12777,900,2,2,3,4,1,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.7,6648,1053,3,3,0,1,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,3.08,11407,2700,6,4,2,1,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4552808,77.0237905,0
+independent,2.95,20233,1458,2,2,0,1,1,0 to 1 Year Old,4,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4253232,77.0985157,0
+Gated Community,8,17778,4500,6,5,3+,4,0,0 to 1 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,6.5,20062,3240,4,3,0,2,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.3931076,76.9588762,0
+independent,3,11494,2610,7,7,0,3,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,8,25543,3132,6,5,3+,4,0,0 to 1 Year Old,4,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,2.75,12343,2228,6,6,2,2,0,0 to 1 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4651369,77.0322597,0
+independent,2.25,16892,1332,5,3,0,2,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.467026,77.0136083,0
+independent,1.45,8000,1812,3,2,1,1,1,1 to 5 Year Old,4,4,5,3,Fully Furnished,1,1,1,1,1,1,1,0,0,28.6273247,75.96433886,1
+independent,3.5,17500,2000,3,3,1,2,2,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.6273247,75.96433886,1
+independent,0.82,3904,2100,3,2,1,1,1,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4022236,77.0392977,0
+Gated Community,10.5,14323,6430.5,5,4,3+,1,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4421059,77.1112654,0
+independent,0.38,4222,900,3,3,3,3,0,1 to 5 Year Old,3,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4624763,77.0276631,0
+Gated Community,10,181818,550,5,6,3,4,2,0 to 1 Year Old,3,4,4,4,Fully Furnished,0,1,0,1,0,0,1,0,1.5,28.4384785,77.0251655,0
+Gated Community,0.75,75000,100,2,3,2,3,0,10+ Year Old,4,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,4.6,26620,1728,7,6,3+,4,0,5 to 10 Year Old,5,4,5,5,Fully Furnished,1,1,1,1,0,0,1,0,0,28.4234344,77.0468649,0
+independent,0.5,5555,900,2,1,2,1,0,5 to 10 Year Old,4,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4243234,77.0383471,0
+independent,7,10000,6430.5,10,11,3+,4,5,1 to 5 Year Old,4,4,5,4,Fully Furnished,0,0,0,0,0,0,0,1,1,28.4423675,77.0504724,0
+Gated Community,0.35,9722,360,2,1,0,2,0,10+ Year Old,3,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.95,9500,1000,5,3,2,2,7,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,1,28.4333189,76.9813419,0
+independent,1.6,17937,892,1,1,2,2,0,10+ Year Old,4,4,5,4,Unfurnished,0,1,1,1,1,1,1,0,0,28.4423675,77.0504724,0
+independent,0.29,3254,891,2,1,0,0,7,10+ Year Old,4,3,4,3,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4452309,76.9379442,0
+Gated Community,0.24,5333,450,2,2,0,2,1,1 to 5 Year Old,4,4,4,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.3504798,77.0618737,0
+independent,5.6,30556,1833,4,3,3+,3,6,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,0,0,0,0,0,0,1,0,28.4601,77.02635,0
+independent,0.55,4583,1200,2,2,0,2,2,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,5,12500,4000,6,4,0,3,0,0 to 1 Year Old,5,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.5115958,77.0364654,0
+independent,1.8,21875,823,1,1,2,3,2,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4423675,77.0504724,0
+independent,1.5,16667,900,9,3,3+,3,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,1.05,7075,1484,3,3,3,3,5,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,53.35222,-7.20167,-1
+independent,1.8,8078,2228,8,5,2,1,4,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.6273247,75.96433886,1
+independent,0.44,4251,1035,3,2,1,1,0,1 to 5 Year Old,4,4,4,4,Fully Furnished,0,0,1,1,1,1,0,0,1.5,28.3504798,77.0618737,0
+Gated Community,0.83,17584,472,5,3,2,3,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,0.7,5397,1297,2,2,2,14,2,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.98,9074,1080,9,4,3,1,4,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.6273247,75.96433886,1
+Gated Community,3.35,5583,6000,6,5,3+,3,4,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.5093541,77.0386599,0
+independent,0.47,3519,1336,3,4,0,3,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,1.2,11194,1072,5,4,2,3,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,9,100000,900,10,5,3+,4,0,10+ Year Old,3,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.47748,77.037207,0
+Gated Community,3.09,6981,4426,5,5,3+,14,0,1 to 5 Year Old,4,4,5,4,Fully Furnished,0,0,0,0,0,0,0,1,0.5,28.4601,77.02635,0
+Gated Community,3.15,6702,4700,4,5,0,12,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.493087,76.9866453,0
+independent,1.7,9444,1800,3,3,0,1,0,0 to 1 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,4.75,10556,4500,6,7,0,4,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,1.65,18333,900,2,3,0,3,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4622211,76.9994738,0
+Gated Community,0.85,4877,1743,4,4,3,4,0,0 to 1 Year Old,5,4,4,3,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,2,7479,2674,4,3,0,1,1,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4022236,77.0392977,0
+independent,0.74,7400,1000,3,3,0,2,0,0 to 1 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,1.85,16003,1156,4,3,2,3,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.4,8000,500,2,1,0,1,4,0 to 1 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.85,9444,900,5,3,3,1,0,0 to 1 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.69,9103,758,1,1,1,2,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,0.85,7727,1100,2,2,0,4,2,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,13,45710,2844,6,8,3+,2,0,1 to 5 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,3.5,28.483901,77.0846097,0
+independent,1.4,8702,1609,2,2,1,2,2,10+ Year Old,3,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,1.8,5950,3025,5,5,3+,3,0,5 to 10 Year Old,4,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.7,3500,2000,4,4,0,2,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.7,9722,720,4,3,2,3,7,1 to 5 Year Old,4,4,4,4,Fully Furnished,0,0,1,0,0,0,0,0,2,28.4645841,76.9828171,0
+Gated Community,2.4,8889,2700,10,5,3,2,1,10+ Year Old,4,5,5,5,Fully Furnished,0,0,0,0,0,0,0,0,2.5,28.4601,77.02635,0
+independent,3.35,26973,1242,1,1,0,1,0,10+ Year Old,4,4,4,4,Fully Furnished,1,0,0,0,0,0,0,0,0,28.4601,77.02635,0
+independent,7,32407,2160,3,2,0,1,0,0 to 1 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4150509,77.0642955,0
+independent,1.65,13750,1200,1,1,0,1,0,0 to 1 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4568853,77.0669025,0
+independent,0.6,6000,1000,1,1,0,1,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,2.43,14890,1632,4,4,2,3,6,10+ Year Old,4,5,5,5,Fully Furnished,0,0,1,1,1,1,0,0,3,28.4601,77.02635,0
+independent,3.5,9210,3800,1,1,0,1,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.34,6800,500,1,1,0,1,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.75,10518,713,6,4,1,3,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,0,1,1,1,1,0,0,0,28.4753259,77.0258279,0
+independent,0.55,7333,750,1,1,0,1,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,38.5,-0.5,-1
+independent,0.7,8101,864,4,2,0,2,1,10+ Year Old,4,4,5,3,Fully Furnished,0,0,1,0,0,0,0,0,0,28.4531749,77.0153287,0
+independent,6.25,6944,6430.5,3,3,0,1,0,5 to 10 Year Old,4,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4243234,77.0383471,0
+independent,1.2,14184,846,4,4,2,2,1,1 to 5 Year Old,3,4,5,4,Fully Furnished,0,0,0,1,1,0,0,0,1,28.4601,77.02635,0
+independent,0.49,4260,1150,2,2,1,3,0,0 to 1 Year Old,4,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4243234,77.0383471,0
+Gated Community,2,10582,1890,10,10,3,3,0,5 to 10 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4477546,77.0326924,0
+independent,0.37,9390,394,1,1,0,3,0,5 to 10 Year Old,4,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,45.14914,11.82057,-1
+Gated Community,0.42,84000,50,5,3,2,3,0,1 to 5 Year Old,5,5,4,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.3981205,76.9411257,0
+independent,0.75,6938,1081,3,1,0,1,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,3.5,15555,2250,10,1,0,1,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4552808,77.0237905,0
+independent,4.5,33333,1350,5,5,3+,2,0,10+ Year Old,5,5,5,5,Fully Furnished,0,0,1,0,0,0,0,0,0,28.4714278,77.0939848,0
+independent,1.16,7539,1539,1,1,0,1,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.9,10000,900,3,4,3,3,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,0,0,1,1,1,1,0,0,0.5,28.4601,77.02635,0
+Gated Community,0.75,10067,745,2,2,2,11,2,0 to 1 Year Old,4,4,5,4,Fully Furnished,0,1,1,1,1,1,1,0,0,28.3910112,76.9900243,0
+independent,0.13,1649,788,1,1,0,0,3,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,0.96,10000,960,7,4,2,3,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,2,28.4803924,77.0190946,0
+Gated Community,1.35,10000,1350,5,5,3+,4,0,1 to 5 Year Old,4,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4243234,77.0383471,0
+Gated Community,0.65,13000,500,2,1,1,3,0,5 to 10 Year Old,4,4,5,4,Unfurnished,0,0,1,0,0,0,0,0,0,28.4601,77.02635,0
+independent,11,28898,3806,8,11,3+,3,0,10+ Year Old,4,5,5,4,Fully Furnished,1,0,1,1,1,0,0,0,3,28.503445,77.0952048,0
+Gated Community,15.7,28200,6390,9,12,3+,3,2,1 to 5 Year Old,4,5,3,4,Fully Furnished,1,1,1,0,0,0,0,1,0.5,28.3985617,77.0978276,0
+independent,0.66,7168,921,2,2,3,4,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,33.40124,44.46749,-1
+independent,4.6,20444,2250,1,1,0,1,0,0 to 1 Year Old,4,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4730128,77.0482686,0
+Gated Community,3.6,19231,1809,5,5,3+,4,2,0 to 1 Year Old,4,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,1.9,35185,540,3,3,3+,3,0,10+ Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,0,47.27541,8.4897,-1
+Gated Community,1.5,6289,2385,3,3,2,1,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,2.5,17857,1400,5,4,3,1,0,10+ Year Old,4,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,1,28.4552808,77.0237905,0
+independent,0.7,7000,1000,2,2,1,5,2,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,0.85,14166,600,5,5,3+,4,0,0 to 1 Year Old,4,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4600745,76.9661988,0
+Gated Community,2,30968,646,9,9,3,11,1,1 to 5 Year Old,4,5,4,4,Fully Furnished,0,0,0,0,0,0,0,0,0.5,28.4714278,77.0939848,0
+independent,0.7,7777,900,1,1,0,1,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.89,18658,477,5,3,2,2,0,10+ Year Old,4,4,4,4,Unfurnished,0,0,0,1,0,0,0,0,0,28.4601,77.02635,0
+independent,0.8,10484,763,1,1,0,1,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,1.6,160000,100,3,2,2,41,0,1 to 5 Year Old,4,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4545711,77.097856,0
+independent,0.89,8127,1095,1,1,0,1,0,0 to 1 Year Old,4,4,3,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,1.34,5000,2680,1,1,0,1,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4421059,77.1112654,0
+independent,1.7,8000,2125,5,5,3,3,0,5 to 10 Year Old,3,4,5,4,Fully Furnished,1,0,0,0,0,0,0,0,1.5,28.4624763,77.0276631,0
+independent,0.34,7555,450,1,1,1,1,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4445323,77.0491372,0
+independent,9.9,49500,2000,2,2,2,3,1,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,0.4,8889,450,7,4,3+,4,0,0 to 1 Year Old,3,4,4,4,Fully Furnished,0,0,1,0,0,0,0,0,1,28.4601,77.02635,0
+independent,2.15,13030,1650,1,1,0,1,0,0 to 1 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,0,47.27541,8.4897,-1
+Gated Community,1.85,308333,60,8,8,3+,5,3,1 to 5 Year Old,4,4,4,4,Fully Furnished,1,0,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.45,8333,540,4,2,1,2,0,1 to 5 Year Old,4,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.58,10610,547,2,3,2,2,5,1 to 5 Year Old,4,4,5,4,Fully Furnished,0,0,0,0,0,0,0,0,0,28.4601,77.02635,0
+independent,1.7,18889,900,5,4,3+,3,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,0,0,1,1,1,1,1,0,0,28.6273247,75.96433886,1
+independent,0.46,7302,630,6,3,3,3,0,5 to 10 Year Old,3,4,5,3,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,0.8,8155,981,5,4,1,2,0,5 to 10 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.3627664,76.9193261,0
+independent,0.58,10591,548,2,3,2,2,5,1 to 5 Year Old,4,4,5,4,Unfurnished,0,0,0,0,0,0,0,0,0,28.4601,77.02635,0
+independent,2.6,24074,1080,4,4,3+,4,0,1 to 5 Year Old,4,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,3,28.503445,77.0952048,0
+Gated Community,2,14815,1350,5,5,2,3,0,0 to 1 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.6273247,75.96433886,1
+independent,3.87,5160,6430.5,19,17,3+,5,3,1 to 5 Year Old,4,4,5,5,Fully Furnished,0,0,1,1,1,1,0,0,2,28.4601,77.02635,0
+independent,0.65,144444,45,3,3,2,3,0,10+ Year Old,4,4,5,4,Fully Furnished,0,0,1,1,0,0,0,0,0,28.4601,77.02635,0
+independent,2.25,9615,2340,3,2,1,1,2,10+ Year Old,4,5,5,5,Fully Furnished,0,0,0,0,0,0,0,0,1.5,28.4601,77.02635,0
+Gated Community,0.85,9444,900,3,2,0,1,7,1 to 5 Year Old,3,4,4,4,Fully Furnished,0,0,1,0,0,0,0,0,0,28.4384785,77.0251655,0
+Gated Community,2,10101,1980,11,10,3,3,0,10+ Year Old,3,4,4,4,Fully Furnished,1,0,0,0,0,0,0,0,2,28.4601,77.02635,0
+Gated Community,10,22222,4500,5,5,2,2,0,10+ Year Old,4,4,5,5,Unfurnished,1,1,1,1,1,1,1,0,0,28.3843199,76.9122326,0
+independent,3.5,32407,1080,5,4,3,3,3,10+ Year Old,4,5,5,4,Fully Furnished,0,0,1,1,0,0,0,0,0,28.503445,77.0952048,0
+independent,0.55,6813,807,2,1,1,1,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,6.5,15046,4320,3,2,3+,2,0,10+ Year Old,4,4,4,4,Unfurnished,1,0,0,0,0,0,0,0,0,28.4662572,77.0142654,0
+independent,1.39,11583,1200,2,2,1,3,2,10+ Year Old,5,4,5,5,Fully Furnished,1,0,1,0,0,1,0,0,1,28.4640865,77.0836441,0
+independent,0.7,6034,1160,3,3,0,1,2,1 to 5 Year Old,4,4,4,4,Fully Furnished,1,0,1,1,1,0,0,0,0,28.4601,77.02635,0
+independent,0.59,10085,585,2,2,2,2,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,0,0,1,0,0,0,0,0,0.5,28.6273247,75.96433886,1
+independent,4,17778,2250,5,5,2,3,0,1 to 5 Year Old,4,5,5,4,Fully Furnished,1,0,1,0,0,0,1,0,1,28.6273247,75.96433886,1
+independent,12.5,40611,3078,6,5,3,4,0,5 to 10 Year Old,5,5,5,4,Fully Furnished,1,1,0,1,0,0,0,0,2.5,28.4166536,77.0611745,0
+Gated Community,1.6,29630,540,7,5,3+,4,0,10+ Year Old,4,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,1.6,29629,540,8,5,3+,4,0,10+ Year Old,4,5,5,4,Fully Furnished,0,0,0,1,0,0,0,0,0,28.503445,77.0952048,0
+independent,2.9,10740,2700,7,7,3,2,6,10+ Year Old,3,4,4,4,Fully Furnished,0,0,1,0,0,0,0,0,0,28.4601,77.02635,0
+Gated Community,0.4,4444,900,6,4,2,2,7,5 to 10 Year Old,4,4,4,4,Fully Furnished,0,0,1,1,1,0,0,0,0,28.5007712,77.0398992,0
+independent,1.7,17980,945,2,2,3+,3,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,0,0,1,1,1,0,0,0,1.5,28.4423675,77.0504724,0
+Gated Community,5.5,55000,1000,3,3,0,1,0,5 to 10 Year Old,4,4,5,4,Unfurnished,1,1,1,1,1,1,1,0,0,28.4243234,77.0383471,0
+Gated Community,6.75,19737,3420,5,4,2,2,1,10+ Year Old,5,5,5,5,Fully Furnished,1,0,1,1,1,0,0,0,2.5,28.4601,77.02635,0
+independent,5.5,5093,6430.5,3,3,3+,2,7,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,0,1,0,3,28.4601,77.02635,0
+Gated Community,2.75,25463,1080,3,3,1,2,5,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,0,1,0,0,0,0,0,1,28.4545693,77.0826249,0
+independent,0.27,12000,225,2,2,1,2,2,5 to 10 Year Old,4,4,4,4,Fully Furnished,0,0,1,0,0,0,0,0,0,28.4601,77.02635,0
+independent,0.7,7007,999,2,3,1,1,1,1 to 5 Year Old,3,4,4,4,Fully Furnished,0,0,1,1,0,0,0,0,2,28.4601,77.02635,0
+independent,0.95,8920,1065,10,10,3+,3,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+independent,8.1,35294,2295,5,5,2,4,0,10+ Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,0,0,0,28.4601,77.02635,0
+Gated Community,7,12963,5400,4,4,3+,2,7,1 to 5 Year Old,5,4,3,4,Fully Furnished,1,1,0,1,1,0,0,1,0,28.5109205,77.0065956,0
+independent,0.38,8254,460,1,1,1,1,0,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,0,1,1,1,0,0,0,0.5,47.28167,8.45023,-1
+independent,0.6,5128,1170,7,3,1,2,1,5 to 10 Year Old,4,4,4,3,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,0.65,5777,1125,2,2,1,1,1,5 to 10 Year Old,4,4,4,4,Fully Furnished,0,0,1,0,0,0,0,0,1,28.5007712,77.0398992,0
+independent,7.2,15926,4521,4,4,2,1,0,10+ Year Old,5,5,5,5,Fully Furnished,0,0,0,0,0,0,0,0,1.5,28.4156048,76.931638,0
+independent,1.5,11111,1350,5,5,2,3,0,10+ Year Old,3,4,4,4,Unfurnished,0,0,0,0,0,0,0,0,0,28.4601,77.02635,0
+Gated Community,10,14285,6430.5,5,7,2,4,0,5 to 10 Year Old,5,5,5,4,Fully Furnished,0,0,0,0,0,0,0,0,0.5,28.4597391,77.0612091,0
+Gated Community,15.5,34307,4518,5,6,3+,3,0,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.4601,77.02635,0
+independent,14.75,51864,2844,16,20,3+,4,0,0 to 1 Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.4601,77.02635,0
+Gated Community,15.7,44265,4518,16,20,3+,4,2,0 to 1 Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.4601,77.02635,0
+Gated Community,9.54,29444,3240,6,5,3+,3,1,0 to 1 Year Old,5,4,5,5,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.4601,77.02635,0
+Gated Community,10.55,39074,2700,5,6,3+,3,0,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,0,0,1,3.5,28.4601,77.02635,0
+Gated Community,15.7,38734,4466,6,7,3+,3,1,0 to 1 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,0,0,0,3.5,28.4601,77.02635,0
+independent,3.65,23442,1557,9,9,3+,3,7,0 to 1 Year Old,5,5,5,4,Fully Furnished,1,1,1,1,1,0,0,1,1.5,28.4983353,77.0203007,0
+independent,15.7,41833,4518,6,8,2,3,2,1 to 5 Year Old,5,5,5,5,Fully Furnished,0,1,1,1,1,0,0,1,3.5,28.4601,77.02635,0
+independent,9,27778,3240,8,5,3+,3,0,10+ Year Old,5,5,5,5,Fully Furnished,0,0,0,1,1,1,0,0,2.5,28.4597391,77.0612091,0
+Gated Community,15.7,600000,400,5,5,2,1,2,10+ Year Old,4,5,4,4,Fully Furnished,1,1,1,1,1,0,0,1,2.5,28.441611,77.1118718,0
+independent,2.15,23889,900,3,3,3,3,0,5 to 10 Year Old,4,4,4,4,Fully Furnished,1,0,0,1,0,0,0,0,3,28.4500427,77.0577093,0
+independent,2.25,25000,900,6,3,3+,3,3,1 to 5 Year Old,5,4,5,4,Fully Furnished,0,0,0,1,0,0,0,0,0,28.4287011,77.0666877,0
+Gated Community,7.46,10260,6430.5,4,4,3+,2,0,1 to 5 Year Old,5,4,4,3,Fully Furnished,1,1,0,1,1,0,0,0,1.5,28.5203402,77.0188612,0
+Gated Community,6.75,31915,2115,12,12,3+,3,7,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,0.5,28.4601,77.02635,0
+independent,0.6,11102,540,8,4,3,3,7,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,0,0,1,0,0,0,0,0,28.4943133,77.0081378,0
+Gated Community,3.99,8866,4500,4,5,3+,4,2,0 to 1 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,0,0,0,1.5,28.4150509,77.0642955,0
+independent,6.81,36911,1845,12,14,3+,2,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,0,1,1,1,1,1,1,0,1,28.4359133,77.0584045,0
+Gated Community,6.5,36111,1800,5,5,3+,3,0,10+ Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,0,3.5,28.4601,77.02635,0
+Gated Community,6.95,15444,4500,4,4,3+,2,0,10+ Year Old,5,5,5,5,Fully Furnished,0,1,0,1,1,0,1,0,3.5,28.4156048,76.931638,0
+Gated Community,7,11240,6228,5,5,3+,2,4,1 to 5 Year Old,5,4,3,4,Fully Furnished,1,1,1,0,0,0,0,0,0.5,28.5109205,77.0065956,0
+Gated Community,3.85,15437,2494,3,3,3+,4,0,0 to 1 Year Old,4,4,4,5,Fully Furnished,1,1,1,0,0,0,0,1,0.5,28.4809525,77.0090778,0
+Gated Community,3.2,14351,2230,3,4,3,1,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,0,1,1,1,0,1,1,3.5,28.3931076,76.9588762,0
+Gated Community,8.81,27191,3240,8,6,3+,3,0,5 to 10 Year Old,5,4,5,5,Fully Furnished,0,1,1,1,1,1,1,0,2,28.4601,77.02635,0
+independent,1.45,241666,60,4,4,3+,4,0,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,0,1,1,0,0,1,0,1,28.4545693,77.0826249,0
+independent,8.9,32963,2700,4,4,3+,2,5,10+ Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,0,0,1,3.5,28.4601,77.02635,0
+Gated Community,6.5,33592,1935,9,9,3+,3,7,10+ Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,0,3.5,28.4601,77.02635,0
+independent,4.49,24455,1836,9,9,3+,3,3,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,0,1,1,1,0,0,1,0.5,28.4449004,77.0663545,0
+Gated Community,15.7,26667,6430.5,5,6,3,3,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,0,1,1,0,0,0,0.5,28.4104903,77.0394627,0
+Gated Community,9.5,26389,3600,5,5,3+,2,4,1 to 5 Year Old,5,4,3,4,Fully Furnished,1,1,1,1,1,0,0,1,3.5,28.5109205,77.0065956,0
+Gated Community,7,194444,360,4,4,3+,3,2,1 to 5 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,0,0,1,0.5,28.4163341,77.0504907,0
+independent,4.15,18444,2250,5,4,2,2,3,10+ Year Old,4,5,5,4,Fully Furnished,1,0,1,1,1,0,1,0,0,28.473784,77.0471827,0
+independent,2.9,11600,2500,4,4,3,2,0,1 to 5 Year Old,5,5,5,5,Fully Furnished,1,0,0,1,0,0,0,0,0.5,28.511342,77.0417054,0
+Gated Community,12,38095,3150,5,6,3+,4,2,0 to 1 Year Old,3,4,4,4,Fully Furnished,1,1,0,1,1,0,0,0,1.5,28.3974292,77.0538823,0
+Gated Community,8.5,13492,6300,5,6,3+,10,0,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.4601,77.02635,0
+independent,11,33951,3240,4,4,2,3,0,0 to 1 Year Old,5,5,5,5,Fully Furnished,1,0,1,1,1,1,1,0,2.5,28.4597391,77.0612091,0
+Gated Community,1.35,11157,1210,2,2,2,4,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,0,0,1,1,28.417746,77.0575589,0
+independent,1.9,8444,2250,4,3,2,2,2,5 to 10 Year Old,4,4,5,4,Fully Furnished,0,0,1,1,1,0,0,1,2,28.4601,77.02635,0
+independent,3.25,21495,1512,5,6,3+,4,0,1 to 5 Year Old,4,5,5,4,Fully Furnished,0,1,1,1,1,0,1,0,1.5,28.4253232,77.0985157,0
+Gated Community,15.7,42054,4518,6,6,3,2,0,1 to 5 Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,1,1.5,28.4601,77.02635,0
+independent,7.3,1560,6430.5,9,9,2,3,3,1 to 5 Year Old,5,5,5,5,Fully Furnished,0,1,1,1,1,0,0,1,1.5,28.4601,77.02635,0
+independent,5.6,20741,2700,6,4,3,3,0,10+ Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0.5,28.4274166,77.1097538,0
+independent,2.55,13178,1935,3,3,2,3,0,1 to 5 Year Old,4,4,5,3,Fully Furnished,0,0,0,1,0,0,0,0,0,28.4601,77.02635,0
+independent,2.4,12000,2000,3,3,2,2,2,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,0,1,0,0,0,0,2,28.511342,77.0417054,0
+Gated Community,15.7,26428,6430.5,4,4,1,1,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,0,1,1,0,0,0,0,28.4104903,77.0394627,0
+independent,15.7,82540,3150,16,16,3+,4,3,0 to 1 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,0,0,1,3.5,28.4601,77.02635,0
+independent,1.7,18888,900,2,1,2,2,0,10+ Year Old,4,5,5,5,Fully Furnished,0,0,0,1,0,0,0,0,0.5,28.4445813,77.0060231,0
+Gated Community,1.6,31481,508,4,4,3,4,0,0 to 1 Year Old,4,4,5,5,Fully Furnished,0,0,1,1,1,0,0,0,0,28.4128851,77.0498362,0
+Gated Community,4.35,13501,3222,4,4,3+,2,1,1 to 5 Year Old,4,4,4,4,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.493087,76.9866453,0
+Gated Community,6.8,20988,3240,4,4,3+,3,2,1 to 5 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,0,0,0,0.5,28.4163341,77.0504907,0
+Gated Community,10,400000,250,12,12,3+,4,1,1 to 5 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,0,0,1,1.5,28.4601,77.02635,0
+independent,4.6,21296,2160,3,3,3+,2,1,10+ Year Old,4,4,5,4,Fully Furnished,1,0,1,1,0,0,0,0,2.5,28.4545693,77.0826249,0
+Gated Community,12.5,34722,3600,4,4,3+,2,0,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,1.5,28.4601,77.02635,0
+Gated Community,2.9,18626,1557,4,4,3,2,1,1 to 5 Year Old,5,5,5,4,Fully Furnished,0,1,1,1,1,1,1,1,1,28.4601,77.02635,0
+independent,15.7,24366,6430.5,6,7,3+,3,2,1 to 5 Year Old,5,5,5,5,Fully Furnished,1,1,0,1,1,1,1,0,3,28.4545693,77.0826249,0
+independent,8,26298,3042,9,9,3,4,2,1 to 5 Year Old,5,4,5,4,Fully Furnished,1,1,1,0,0,0,0,0,3.5,28.4646566,77.0839505,0
+independent,2.25,7500,3000,11,11,3+,5,7,0 to 1 Year Old,5,5,5,5,Fully Furnished,0,1,1,1,1,1,0,0,0.5,28.4545693,77.0826249,0
+independent,8.31,24171,3438,5,6,3+,4,2,10+ Year Old,4,4,4,4,Unfurnished,0,0,0,1,0,0,0,0,3.5,28.4601,77.02635,0
+independent,6.21,23000,2700,6,6,3+,4,2,10+ Year Old,4,4,4,4,Fully Furnished,0,0,0,1,1,0,0,0,3.5,28.4601,77.02635,0
+independent,7.35,29697,2475,6,4,3+,3,2,10+ Year Old,4,4,5,4,Fully Furnished,1,0,0,0,0,0,0,0,3.5,28.4601,77.02635,0
+Gated Community,4.5,33333,1350,5,3,2,3,0,10+ Year Old,5,5,5,5,Fully Furnished,0,1,1,1,1,1,0,0,2,28.4601,77.02635,0
+independent,6.5,36111,1800,4,3,3,3,0,5 to 10 Year Old,5,5,5,5,Fully Furnished,0,0,1,1,1,0,0,0,2,28.4601,77.02635,0
+Gated Community,1.83,6778,2700,4,4,2,4,0,0 to 1 Year Old,5,4,4,5,Fully Furnished,1,1,1,0,0,0,0,1,1,28.4601,77.02635,0
+Gated Community,7.35,22812,3222,4,5,2,2,4,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.4104903,77.0394627,0
+Gated Community,10.5,261194,402,4,4,2,2,0,10+ Year Old,5,5,5,5,Fully Furnished,1,0,1,1,1,0,0,0,1.5,28.4601,77.02635,0
+Gated Community,2.75,178571,154,3,3,1,2,3,10+ Year Old,4,4,5,5,Fully Furnished,0,1,1,1,1,1,0,0,0.5,28.4163341,77.0504907,0
+independent,6.5,27461,2367,12,12,3+,4,3,1 to 5 Year Old,4,4,5,4,Fully Furnished,0,1,1,1,1,1,1,0,2,28.4359133,77.0584045,0
+Gated Community,7.5,31686,2367,9,9,3+,4,7,1 to 5 Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,1,2.5,28.4601,77.02635,0
+Gated Community,8,22222,3600,6,7,3+,51,2,5 to 10 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,2.5,28.3864052,77.0598046,0
+independent,5.5,23061,2385,8,8,3+,3,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,0,1,1,1,1,1,1,0,1.5,28.4359133,77.0584045,0
+independent,4.35,32222,1350,5,4,3,3,1,10+ Year Old,5,5,5,5,Unfurnished,1,1,1,1,1,1,1,0,0.5,28.483901,77.0846097,0
+Gated Community,2.75,17662,1557,3,3,3,2,0,5 to 10 Year Old,5,5,5,4,Fully Furnished,1,1,0,0,0,0,0,0,2,28.4983353,77.0203007,0
+Gated Community,15.7,39841,4518,6,6,2,3,1,10+ Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,2,28.4601,77.02635,0
+Gated Community,15.7,37627,4518,5,6,3,2,3,10+ Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,0,0,1,2.5,28.4601,77.02635,0
+Gated Community,3.75,23148,1620,3,4,3,2,0,5 to 10 Year Old,4,4,4,4,Fully Furnished,1,0,1,1,1,0,1,0,2.5,28.4232478,77.0804487,0
+Gated Community,13.5,29880,4518,5,5,3,2,0,10+ Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,0,3.5,28.4601,77.02635,0
+independent,4.75,20068,2367,7,5,3+,3,6,10+ Year Old,4,4,5,5,Fully Furnished,0,0,1,1,0,1,1,0,1.5,28.506318,77.0655182,0
+independent,5.1,16569,3078,3,2,0,1,0,10+ Year Old,5,4,4,5,Fully Furnished,0,0,1,1,0,1,1,0,0.5,28.5056942,77.0463022,0
+independent,3.9,21242,1836,6,6,3+,3,2,5 to 10 Year Old,4,4,5,4,Fully Furnished,0,1,1,0,0,0,0,0,2.5,28.4351423,77.0403538,0
+Gated Community,6.25,11574,5400,4,4,3+,2,0,1 to 5 Year Old,5,4,3,4,Fully Furnished,1,1,1,1,0,0,0,1,0.5,28.5109205,77.0065956,0
+independent,10.55,32562,3240,5,5,3,2,0,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,0,0,0,1.5,28.4150509,77.0642955,0
+Gated Community,2.01,13000,1546,3,3,3,4,1,0 to 1 Year Old,4,4,5,4,Unfurnished,1,1,1,0,0,0,0,1,0,28.4110188,77.0963685,0
+independent,3.25,22429,1449,4,4,3+,3,0,5 to 10 Year Old,5,5,5,4,Fully Furnished,0,0,1,1,1,1,1,0,3.5,28.4540044,77.0497179,0
+independent,9.25,39530,2340,12,12,3+,4,2,0 to 1 Year Old,5,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,2,28.6273247,75.96433886,1
+Gated Community,6,22222,2700,5,4,3,3,2,0 to 1 Year Old,5,4,4,4,Fully Furnished,0,1,1,1,1,1,1,0,1,28.3846684,77.0220391,0
+independent,5.25,38889,1350,4,4,3+,2,0,1 to 5 Year Old,4,5,5,4,Fully Furnished,1,1,1,1,1,1,1,1,1.5,28.4601,77.02635,0
+independent,3.6,19231,1809,12,12,3+,4,2,0 to 1 Year Old,5,5,5,5,Fully Furnished,1,1,0,1,1,0,0,0,3,28.483901,77.0846097,0
+Gated Community,15.7,57206,4545,6,7,3+,2,2,0 to 1 Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,1,3,28.4765171,77.090194,0
+Gated Community,5.88,27222,2160,9,9,3+,3,0,1 to 5 Year Old,5,5,5,4,Fully Furnished,1,1,1,0,0,0,0,1,3,28.4166536,77.0611745,0
+independent,0.53,63554,83,2,1,1,1,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,0,0,0,0,0,1,28.4601,77.02635,0
+independent,0.47,10601,443,2,2,1,2,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,1,28.4601,77.02635,0
+Gated Community,12.25,20940,5850,5,7,3+,1,5,1 to 5 Year Old,5,5,5,4,Fully Furnished,1,1,1,0,0,0,0,1,3,28.4166536,77.0611745,0
+Gated Community,10.45,32253,3240,5,7,3+,3,0,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,1,3,28.4601,77.02635,0
+Gated Community,12,37037,3240,4,4,3+,3,0,1 to 5 Year Old,3,4,4,4,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.3974292,77.0538823,0
+Gated Community,3.6,19231,1809,5,8,3+,4,7,1 to 5 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,1,0,0,1,1.5,28.4384785,77.0251655,0
+Gated Community,6.4,23704,2700,4,4,3,3,7,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,0,0,0,0,1,1.5,28.4104903,77.0394627,0
+independent,4.35,23693,1836,8,8,2,3,2,1 to 5 Year Old,4,4,5,4,Fully Furnished,0,1,1,0,0,0,0,0,2,28.4359133,77.0584045,0
+independent,2.95,15989,1845,4,4,3+,2,3,10+ Year Old,5,5,5,4,Fully Furnished,0,1,0,0,0,0,0,0,0,28.4983353,77.0203007,0
+independent,3,19268,1557,6,4,3+,3,4,10+ Year Old,5,5,5,4,Fully Furnished,0,1,0,0,0,0,0,0,0,28.4983353,77.0203007,0
+independent,1.15,19360,594,3,3,2,2,5,10+ Year Old,5,5,5,4,Fully Furnished,0,0,0,1,1,0,0,0,0,28.4983353,77.0203007,0
+Gated Community,8.25,45833,1800,12,12,3+,4,1,0 to 1 Year Old,5,5,5,5,Fully Furnished,1,0,1,1,1,0,0,1,0.5,28.4601,77.02635,0
+Gated Community,13.5,29880,4518,5,5,2,2,0,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,0,0,0,2,28.4765171,77.090194,0
+Gated Community,15,23437,6400,5,5,3,2,7,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,0,0,1,2.5,28.4601,77.02635,0
+independent,5.5,2716,6430.5,8,7,3+,3,0,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,0,0,1,3,28.4545693,77.0826249,0
+independent,15.7,39841,4518,5,4,3+,4,1,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,0,0,1,3.5,28.4601,77.02635,0
+independent,5.8,32222,1800,4,3,2,2,0,1 to 5 Year Old,5,5,5,5,Fully Furnished,0,0,0,1,0,0,0,0,1,28.4601,77.02635,0
+Gated Community,12.5,40850,3060,4,4,3+,2,7,1 to 5 Year Old,5,5,5,4,Fully Furnished,1,1,1,0,0,0,0,1,1.5,28.4166536,77.0611745,0
+Gated Community,3.51,12342,2844,4,4,3,4,0,0 to 1 Year Old,4,5,5,4,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.503445,77.0952048,0
+independent,3.5,15555,2250,6,5,2,3,2,10+ Year Old,4,4,5,4,Fully Furnished,1,1,1,0,0,0,0,1,3,28.4803924,77.0190946,0
+Gated Community,9.4,26111,3600,5,6,3+,2,2,1 to 5 Year Old,5,4,3,4,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.5109205,77.0065956,0
+Gated Community,10.3,31790,3240,5,6,3+,3,0,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.4150509,77.0642955,0
+Gated Community,6,24691,2430,4,4,3+,2,2,1 to 5 Year Old,5,4,3,4,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.5109205,77.0065956,0
+Gated Community,8.45,235376,359,3,3,2,2,2,10+ Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,0,0,1,1.5,28.4155058,77.0622733,0
+independent,7.25,29293,2475,9,8,3,4,6,10+ Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,0,0,1,0.5,28.4601,77.02635,0
+independent,4,16004,2499,3,3,2,2,0,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,0,0,1,0.5,28.4601,77.02635,0
+Gated Community,6.15,27333,2250,5,5,3+,3,7,1 to 5 Year Old,5,4,3,4,Fully Furnished,1,1,1,0,0,0,0,1,2.5,28.4074063,77.0352841,0
+Gated Community,4.6,17624,2610,4,4,3+,3,1,5 to 10 Year Old,5,4,4,4,Fully Furnished,1,1,0,1,1,0,0,1,3.5,28.3846684,77.0220391,0
+Gated Community,12.5,38580,3240,4,5,2,2,2,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,1,1.5,28.4601,77.02635,0
+Gated Community,10,27778,3600,4,5,3+,2,0,0 to 1 Year Old,5,4,3,4,Fully Furnished,1,1,1,1,1,1,1,0,3,28.5109205,77.0065956,0
+independent,15.7,35556,4500,5,6,3,2,2,10+ Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4714278,77.0939848,0
+independent,12.5,38580,3240,5,5,3+,2,1,10+ Year Old,5,5,5,5,Fully Furnished,1,0,1,1,1,0,0,0,3.5,28.4714278,77.0939848,0
+independent,15.7,35000,4571,6,7,3+,3,0,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.4601,77.02635,0
+independent,10,30864,3240,6,6,3+,4,2,5 to 10 Year Old,4,4,5,4,Fully Furnished,0,0,0,1,0,0,0,0,3.5,28.4601,77.02635,0
+Gated Community,3.6,19231,1809,5,7,3+,2,0,5 to 10 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,1,1,0,0,3.5,28.4601,77.02635,0
+independent,2.8,161849,173,5,5,3+,2,2,10+ Year Old,5,5,5,5,Fully Furnished,1,0,1,1,1,0,0,0,1,28.4601,77.02635,0
+independent,6.75,27778,2430,3,3,3,2,2,5 to 10 Year Old,5,5,5,5,Fully Furnished,0,0,1,1,1,0,0,0,0,28.4714278,77.0939848,0
+independent,2.5,16056,1557,4,4,2,4,7,10+ Year Old,5,5,5,4,Fully Furnished,1,0,0,1,0,1,0,0,0,28.4983353,77.0203007,0
+independent,8,17707,4518,12,4,3+,3,1,10+ Year Old,4,4,3,3,Fully Furnished,0,0,1,1,0,0,0,1,1.5,28.4771195,77.0664209,0
+Gated Community,2.47,7718,3200,4,4,3+,2,7,5 to 10 Year Old,5,5,4,4,Fully Furnished,1,1,1,0,0,0,0,1,1.5,28.3981205,76.9411257,0
+independent,3.7,25535,1449,8,8,2,4,2,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,1,28.4601,77.02635,0
+independent,15.7,1859,6430.5,6,8,3+,4,4,1 to 5 Year Old,5,5,5,5,Fully Furnished,1,0,0,1,1,0,0,0,2.5,28.4765171,77.090194,0
+Gated Community,4.6,17037,2700,6,6,3,3,0,10+ Year Old,4,4,4,4,Fully Furnished,1,1,1,0,0,0,0,0,3.5,28.4601,77.02635,0
+Gated Community,3.65,10579,3450,6,6,2,3,3,5 to 10 Year Old,4,4,4,4,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.4601,77.02635,0
+independent,12,42194,2844,4,5,3+,4,0,1 to 5 Year Old,5,4,5,5,Fully Furnished,1,0,0,1,1,0,0,0,2.5,28.4640865,77.0836441,0
+independent,4.5,15625,2880,8,8,3,3,2,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.4601,77.02635,0
+Gated Community,4.4,15278,2880,6,6,3,3,1,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,0,3.5,28.4601,77.02635,0
+Gated Community,7.25,201388,360,4,4,3,2,0,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,0,0,0,0,0,3.5,28.4104903,77.0394627,0
+independent,0.99,17187,576,4,4,3,4,0,1 to 5 Year Old,5,4,5,5,Unfurnished,0,1,0,0,0,0,1,0,0,28.4234344,77.0468649,0
+Gated Community,3.6,19231,1809,5,7,3+,3,5,1 to 5 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,1,0,0,1,0.5,28.4384785,77.0251655,0
+independent,15.7,44444,4500,5,7,3+,3,7,1 to 5 Year Old,5,5,5,5,Fully Furnished,1,0,0,1,1,0,0,1,1.5,28.4714278,77.0939848,0
+Gated Community,2.65,18928,1400,3,3,3,4,2,0 to 1 Year Old,5,5,5,5,Fully Furnished,1,1,0,1,1,0,0,0,0.5,28.4601,77.02635,0
+independent,2.95,10926,2700,4,4,2,4,0,1 to 5 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,0.5,28.4260386,77.055162,0
+independent,3.6,19608,1836,8,4,3,3,1,5 to 10 Year Old,4,5,5,5,Fully Furnished,0,1,0,1,1,0,0,0,1,28.4445813,77.0060231,0
+Gated Community,1.27,8089,1570,3,3,3,4,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,0,0,1,1,28.4240903,76.9624394,0
+Gated Community,0.75,6849,1095,3,2,3,4,0,0 to 1 Year Old,4,4,3,4,Fully Furnished,1,1,1,1,1,0,0,1,1,28.4601,77.02635,0
+independent,6,24691,2430,5,6,3+,3,0,10+ Year Old,5,5,5,4,Fully Furnished,1,0,1,1,1,0,1,0,2.5,28.4983353,77.0203007,0
+independent,3.6,19231,1809,16,16,3+,4,3,0 to 1 Year Old,5,4,5,5,Fully Furnished,1,1,1,1,1,1,1,0,3,28.4601,77.02635,0
+Gated Community,6.5,19607,3315,4,5,3,1,2,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,0,1,1,1,0,0,0,2.5,28.4558973,77.1084759,0
+Gated Community,15.7,40000,4500,5,6,3+,3,2,1 to 5 Year Old,3,4,4,4,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.3974292,77.0538823,0
+Gated Community,11.29,34846,3240,5,5,3+,2,0,5 to 10 Year Old,5,5,5,5,Fully Furnished,0,1,1,0,0,1,0,0,2,28.4150509,77.0642955,0
+independent,8.49,31444,2700,3,3,2,4,1,1 to 5 Year Old,4,4,4,4,Fully Furnished,0,1,0,1,1,0,0,0,1.5,28.4601,77.02635,0
+Gated Community,8.5,26235,3240,4,4,1,2,0,1 to 5 Year Old,4,4,5,4,Fully Furnished,0,1,1,0,0,1,0,0,0,28.4601,77.02635,0
+Gated Community,6,22222,2700,4,4,3+,2,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,0,0,0.5,28.4104903,77.0394627,0
+Gated Community,9.5,23457,4050,5,5,3,2,0,1 to 5 Year Old,5,4,4,3,Fully Furnished,0,1,0,1,0,1,0,0,0.5,28.5203402,77.0188612,0
+independent,15.7,27083,6430.5,8,9,3+,2,1,0 to 1 Year Old,5,5,5,4,Fully Furnished,1,1,1,1,1,0,0,1,2.5,28.4983353,77.0203007,0
+independent,10.5,43210,2430,12,12,3+,4,2,1 to 5 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,1,1.5,28.4601,77.02635,0
+independent,4.31,31926,1350,5,4,3,3,1,10+ Year Old,5,5,5,5,Unfurnished,0,1,1,1,1,1,1,0,0,28.483901,77.0846097,0
+independent,6.95,38611,1800,12,12,3+,4,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,0,1,1,1,1,0,1,1.5,28.4545693,77.0826249,0
+Gated Community,10.5,27911,3762,4,4,2,2,2,10+ Year Old,5,5,5,5,Fully Furnished,1,0,1,1,1,1,0,1,0.5,28.4545693,77.0826249,0
+independent,10.5,29022,3618,5,5,3,3,0,5 to 10 Year Old,5,5,5,5,Unfurnished,1,1,1,1,1,1,0,0,2.5,28.483901,77.0846097,0
+independent,5.8,12837,4518,4,4,3+,4,0,10+ Year Old,4,4,5,4,Unfurnished,1,1,0,1,0,0,1,0,0,28.4601,77.02635,0
+independent,4.6,12198,3771,4,4,3+,2,0,10+ Year Old,4,4,5,4,Unfurnished,0,1,0,1,1,0,1,0,0,28.4601,77.02635,0
+independent,11.58,35741,3240,5,5,3,2,0,5 to 10 Year Old,5,5,5,5,Fully Furnished,0,1,1,1,1,1,0,0,0.5,28.4150509,77.0642955,0
+Gated Community,3.6,19231,1809,5,5,3+,2,0,5 to 10 Year Old,5,5,5,5,Fully Furnished,0,1,1,1,1,0,0,0,1,28.4150509,77.0642955,0
+Gated Community,4,16666,2400,4,4,3+,2,2,5 to 10 Year Old,5,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0.5,28.4983353,77.0203007,0
+Gated Community,15.7,35556,4500,6,7,3,3,3,10+ Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,0,0,0,2.5,28.4597391,77.0612091,0
+Gated Community,6,9634,6228,5,5,3+,2,6,1 to 5 Year Old,5,4,3,4,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.5109205,77.0065956,0
+Gated Community,6.8,31481,2160,4,5,3,3,7,10+ Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,0,0,0,1.5,28.4150509,77.0642955,0
+Gated Community,2.5,7827,3194,4,5,3+,4,7,5 to 10 Year Old,5,5,4,4,Fully Furnished,1,1,1,1,1,1,1,0,2,28.4601,77.02635,0
+independent,7.5,38760,1935,12,12,3+,4,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,0,0,1,3.5,28.4601,77.02635,0
+Gated Community,8.48,23556,3600,4,6,3+,3,2,0 to 1 Year Old,5,4,3,4,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.5109205,77.0065956,0
+Gated Community,6.25,10035,6228,5,7,3+,3,2,1 to 5 Year Old,5,4,3,4,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.5109205,77.0065956,0
+Gated Community,10.85,28841,3762,8,8,3,3,7,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.4601,77.02635,0
+independent,5.15,26615,1935,9,9,3+,3,0,1 to 5 Year Old,5,4,5,5,Fully Furnished,0,1,1,1,1,0,1,0,1,28.4251572,77.0475128,0
+independent,3.5,24155,1449,4,4,3,2,2,10+ Year Old,5,5,5,4,Fully Furnished,1,1,1,1,1,0,0,0,1,28.4540044,77.0497179,0
+independent,3.6,14815,2430,4,4,3,2,2,0 to 1 Year Old,4,4,3,4,Fully Furnished,1,1,1,1,1,1,1,0,0,28.4007588,76.9210802,0
+Gated Community,6,22222,2700,4,5,2,2,0,10+ Year Old,4,4,4,4,Fully Furnished,0,0,0,1,0,0,1,0,1.5,28.4601,77.02635,0
+Gated Community,14,62222,2250,4,5,3+,2,1,10+ Year Old,4,5,4,4,Fully Furnished,1,1,1,0,0,0,0,1,1.5,28.4601,77.02635,0
+Gated Community,1.6,6597,2425,4,4,3+,16,1,5 to 10 Year Old,4,4,4,4,Fully Furnished,0,1,1,1,1,1,0,1,0.5,28.3931076,76.9588762,0
+Gated Community,1.7,7870,2160,3,3,3+,4,3,0 to 1 Year Old,5,5,4,5,Fully Furnished,1,1,1,1,1,1,1,0,1.5,28.3981087,76.9732873,0
+independent,7.25,26852,2700,9,9,3+,2,2,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,2,28.4545693,77.0826249,0
+independent,15.5,28233,5490,5,6,3,3,0,5 to 10 Year Old,4,4,4,4,Unfurnished,1,0,1,0,0,1,1,0,3.5,28.4601,77.02635,0
+independent,3.4,15111,2250,3,3,3,1,3,10+ Year Old,4,5,5,4,Fully Furnished,0,1,1,1,1,1,1,0,0,28.473784,77.0471827,0
+independent,11.25,34722,3240,9,9,3+,2,1,5 to 10 Year Old,5,4,5,5,Fully Furnished,1,1,1,0,0,0,0,0,2.5,28.4601,77.02635,0
+Gated Community,3.3,19820,1665,4,3,3+,2,0,5 to 10 Year Old,4,4,4,4,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.4601,77.02635,0
+independent,5.5,1087,6430.5,8,8,2,3,2,1 to 5 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,1,28.42749,77.0608897,0
+Gated Community,3.6,19231,1809,9,9,3+,3,5,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,0,0,0,0,1,1.5,28.4449004,77.0663545,0
+independent,8.5,31481,2700,5,5,3,3,7,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,0,1,1,0,0,0,0.5,28.4601,77.02635,0
+independent,8.5,26235,3240,5,4,2,1,2,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,1.5,28.4405031,77.0595974,0
+Gated Community,11.95,36883,3240,3,3,2,1,7,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,0,1.5,28.4150509,77.0642955,0
+Gated Community,12,37037,3240,3,4,2,1,0,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,0,0,0,1.5,28.4150509,77.0642955,0
+Gated Community,6.5,27871,2332,4,4,3+,2,2,0 to 1 Year Old,5,4,4,4,Fully Furnished,1,1,1,0,0,0,0,1,2.5,28.3846684,77.0220391,0
+Gated Community,15.7,35109,4842,5,8,3,3,3,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,0,0,1,3.5,28.4601,77.02635,0
+Gated Community,11.5,17692,6430.5,7,8,3+,3,0,10+ Year Old,5,5,5,4,Fully Furnished,1,0,1,1,1,1,0,0,2.5,28.6273247,75.96433886,1
+Gated Community,9,38022,2367,12,12,3,4,3,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,0,1,0,0,0,0,1,0.5,28.4601,77.02635,0
+independent,15,33333,4500,4,4,3,3,0,5 to 10 Year Old,5,5,5,5,Fully Furnished,0,0,1,1,1,1,0,0,1.5,28.4714278,77.0939848,0
+Gated Community,8.2,25309,3240,3,3,2,2,1,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,0,0,0,0,1,2.5,28.4104903,77.0394627,0
+Gated Community,5.51,16990,3243,3,3,2,4,6,5 to 10 Year Old,4,5,5,4,Fully Furnished,0,1,0,0,0,0,0,0,0,28.4769544,77.06624,0
+independent,3.2,14222,2250,3,3,2,2,0,10+ Year Old,5,5,5,5,Fully Furnished,0,1,1,0,0,0,0,0,0,28.4750063,77.0103535,0
+Gated Community,8,22222,3600,6,7,3+,3,2,5 to 10 Year Old,4,4,4,4,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.3864052,77.0598046,0
+independent,2.95,16388,1800,3,3,3,2,3,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,0,0,1,1,28.4601,77.02635,0
+independent,2.8,22075,1268,3,3,2,2,0,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,0,0,1,0,0,0,1,3.5,40.21894,-83.96077,-1
+independent,5.25,11666,4500,9,9,3+,4,0,1 to 5 Year Old,5,4,5,5,Fully Furnished,1,1,1,0,0,0,0,1,0.5,28.4251572,77.0475128,0
+independent,8.49,47167,1800,12,12,3+,4,1,1 to 5 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,0,0,1.5,28.4765171,77.090194,0
+Gated Community,4.35,7937,5481,4,4,3,2,1,1 to 5 Year Old,4,4,3,4,Fully Furnished,1,1,0,0,0,0,1,0,1.5,28.3873647,76.9475835,0
+independent,3.49,20197,1728,4,4,2,3,5,5 to 10 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,2.5,28.4088081,77.0161691,0
+independent,2.99,20635,1449,4,4,2,2,4,5 to 10 Year Old,4,5,5,4,Fully Furnished,1,1,1,1,1,1,1,0,2.5,28.4253232,77.0985157,0
+independent,9.19,34037,2700,16,18,2,4,7,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,1.5,28.4601,77.02635,0
+independent,1.64,10123,1620,3,3,2,4,4,0 to 1 Year Old,4,4,5,4,Fully Furnished,0,0,1,1,1,0,1,1,1.5,28.4601,77.02635,0
+Gated Community,9.35,28858,3240,10,10,3+,4,2,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,0,0,1.5,28.4601,77.02635,0
+Gated Community,9.25,28549,3240,9,9,3+,4,1,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,0,0,0,1,3.5,28.4601,77.02635,0
+Gated Community,2.8,15555,1800,3,3,3,2,0,5 to 10 Year Old,4,4,5,5,Fully Furnished,1,1,1,1,1,1,1,1,1,28.4128851,77.0498362,0
+Gated Community,2.5,13513,1850,3,3,2,2,0,5 to 10 Year Old,4,4,5,5,Fully Furnished,1,1,1,1,1,1,0,1,2,28.4128851,77.0498362,0
+Gated Community,4.05,20769,1950,3,3,3,2,0,5 to 10 Year Old,4,4,5,5,Fully Furnished,1,1,1,0,0,1,0,1,1.5,28.4128851,77.0498362,0
+independent,8.4,34568,2430,4,4,3+,2,2,1 to 5 Year Old,5,4,5,5,Fully Furnished,1,1,1,0,0,0,0,1,2.5,28.4601,77.02635,0
+independent,6,21097,2844,6,7,3+,3,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,0,1,0,0,0,0,1,3.5,28.4601,77.02635,0
+Gated Community,11,33951,3240,5,6,3+,2,2,0 to 1 Year Old,3,4,4,4,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.4601,77.02635,0
+Gated Community,8.75,24306,3600,5,5,3+,3,2,0 to 1 Year Old,5,4,3,4,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.4601,77.02635,0
+independent,15.7,25556,6430.5,4,4,3+,2,6,1 to 5 Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.4601,77.02635,0
+independent,6.5,36111,1800,4,4,3+,2,2,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,0,1,1,0,0,1,3.5,28.4601,77.02635,0
+Gated Community,2.45,7756,3159,4,4,3+,3,7,5 to 10 Year Old,5,5,5,4,Fully Furnished,1,0,1,1,1,0,0,1,3,28.4545693,77.0826249,0
+independent,5.5,21825,2520,8,8,2,3,0,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,0,1,1,0,0,0,0,2.5,28.4601,77.02635,0
+independent,3.51,12342,2844,4,4,3,4,1,0 to 1 Year Old,5,4,4,5,Unfurnished,1,1,1,1,1,0,0,1,0.5,28.507814,77.0713577,0
+Gated Community,9.25,16577,5580,5,5,3+,4,2,1 to 5 Year Old,4,4,4,4,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.4232478,77.0804487,0
+independent,5.65,17706,3191,7,7,3+,2,7,5 to 10 Year Old,4,5,5,4,Fully Furnished,1,0,1,1,1,1,1,1,1.5,28.510319,77.0530094,0
+independent,7.85,29074,2700,9,9,3+,3,7,1 to 5 Year Old,4,4,5,3,Fully Furnished,1,1,1,1,1,1,1,0,3,28.4601,77.02635,0
+independent,13.5,29880,4518,5,5,3+,2,2,1 to 5 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,3,28.4714278,77.0939848,0
+independent,15.7,42222,4500,6,8,3+,3,0,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,0,3.5,28.4765171,77.090194,0
+independent,5.5,38194,1440,18,18,3+,4,6,1 to 5 Year Old,5,4,4,5,Fully Furnished,0,1,1,1,1,0,0,0,0.5,28.507814,77.0713577,0
+independent,3.5,21605,1620,4,4,3+,3,4,10+ Year Old,4,4,4,4,Fully Furnished,0,1,1,1,1,0,0,1,1,28.4601,77.02635,0
+Gated Community,8.25,38194,2160,4,4,3+,3,2,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,0,0,0,0,1,1.5,28.4601,77.02635,0
+Gated Community,15.7,37778,4235,4,4,3,1,0,1 to 5 Year Old,5,5,5,5,Fully Furnished,0,0,0,1,1,0,0,0,3,28.4714278,77.0939848,0
+Gated Community,15.7,31111,6430.5,4,4,3+,2,1,5 to 10 Year Old,4,5,4,4,Fully Furnished,1,1,1,1,1,1,1,0,3.5,28.441611,77.1118718,0
+Gated Community,2.68,17213,1557,4,3,2,3,0,5 to 10 Year Old,5,5,5,4,Fully Furnished,0,1,0,1,0,0,0,1,1,28.5179556,77.0429556,0
+independent,2.7,18620,1450,5,5,2,3,0,10+ Year Old,4,5,5,4,Fully Furnished,0,0,0,1,0,0,0,0,0,28.510319,77.0530094,0
+independent,2.3,17014,1352,4,4,3,2,0,10+ Year Old,5,5,5,5,Fully Furnished,0,0,0,1,1,0,0,0,0,28.4750063,77.0103535,0
+Gated Community,0.92,7750,1187,2,3,3+,3,2,0 to 1 Year Old,5,4,4,4,Fully Furnished,1,1,1,0,0,0,0,1,0.5,28.3846684,77.0220391,0
+Gated Community,1.04,7172,1450,3,3,3+,2,2,1 to 5 Year Old,5,4,4,4,Fully Furnished,1,1,1,0,0,0,0,1,0.5,28.3846684,77.0220391,0
+independent,9.85,29638,3323,5,5,2,3,7,10+ Year Old,4,4,5,3,Fully Furnished,0,1,0,1,1,0,0,0,2.5,28.4601,77.02635,0
+independent,15,33333,4500,5,5,3+,4,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,0,1,1,1,1,0,1,0,0.5,28.4423675,77.0504724,0
+Gated Community,1.18,8137,1450,3,3,3+,2,2,1 to 5 Year Old,5,4,4,4,Fully Furnished,1,1,1,0,0,0,0,1,0.5,28.3846684,77.0220391,0
+Gated Community,0.9,7582,1187,2,2,3+,3,2,0 to 1 Year Old,5,4,4,4,Fully Furnished,1,1,1,0,0,0,0,1,1,28.3846684,77.0220391,0
+Gated Community,13,48148,2700,3,3,3+,4,1,0 to 1 Year Old,5,5,5,4,Fully Furnished,0,0,0,1,1,0,0,0,1,28.4545693,77.0826249,0
+Gated Community,15.1,18605,6430.5,5,5,3+,3,0,0 to 1 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,0,0,0,0,3.5,28.3974292,77.0538823,0
+Gated Community,9.01,16066,5608,4,4,3+,3,2,1 to 5 Year Old,3,4,4,4,Fully Furnished,1,1,1,0,0,0,0,1,1.5,28.3974292,77.0538823,0
+Gated Community,15.7,55556,3240,4,4,3+,3,0,5 to 10 Year Old,3,4,4,4,Fully Furnished,0,1,1,1,1,1,0,0,2.5,28.3974292,77.0538823,0
+independent,12,38986,3078,16,16,3+,4,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,1,0,3.5,28.4500427,77.0577093,0
+independent,2.25,24510,918,4,3,3,3,2,1 to 5 Year Old,4,4,5,4,Fully Furnished,0,0,0,1,1,1,0,1,1,28.4359133,77.0584045,0
+Gated Community,8,11428,6430.5,4,4,3+,2,7,10+ Year Old,3,4,4,4,Fully Furnished,1,0,0,1,1,0,0,1,3.5,28.4384785,77.0251655,0
+Gated Community,5.75,22184,2592,4,4,2,2,7,5 to 10 Year Old,4,4,5,4,Fully Furnished,0,1,0,0,0,0,0,0,0.5,28.4104903,77.0394627,0
+Gated Community,9.8,30247,3240,4,4,3,2,3,5 to 10 Year Old,5,5,5,5,Fully Furnished,0,1,0,0,0,0,0,0,0.5,28.4150509,77.0642955,0
+independent,4.95,20370,2430,6,5,3+,3,7,1 to 5 Year Old,5,5,5,4,Fully Furnished,1,0,1,1,1,0,0,0,0.5,28.4983353,77.0203007,0
+Gated Community,15.7,31666,6000,5,6,3+,3,2,1 to 5 Year Old,3,4,4,4,Fully Furnished,1,1,1,0,0,0,0,0,2.5,28.4601,77.02635,0
+independent,4.99,18889,2642,4,4,3+,3,1,5 to 10 Year Old,5,5,5,4,Fully Furnished,1,0,1,1,1,1,0,0,2.5,28.4983353,77.0203007,0
+Gated Community,7.1,283333,251,3,3,3,1,0,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,0.5,28.4150509,77.0642955,0
+independent,4.25,31481,1350,5,5,3+,3,0,1 to 5 Year Old,5,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,1.5,28.4652928,77.092478,0
+independent,9.5,42222,2250,5,5,3+,2,2,1 to 5 Year Old,5,5,5,4,Fully Furnished,1,1,1,1,1,0,0,1,1.5,28.4545693,77.0826249,0
+independent,15.7,59259,2700,16,16,3+,4,7,0 to 1 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,1,3.5,28.4601,77.02635,0
+independent,8.25,45833,1800,12,12,3+,4,0,0 to 1 Year Old,5,4,5,4,Fully Furnished,0,1,1,1,1,1,1,0,1.5,28.4692155,77.0912578,0
+Gated Community,4.7,18008,2610,4,4,3+,3,2,0 to 1 Year Old,5,4,4,4,Fully Furnished,1,1,0,1,1,0,0,0,0.5,28.3846684,77.0220391,0
+independent,4.25,26235,1620,5,5,3+,3,2,5 to 10 Year Old,5,5,5,4,Fully Furnished,0,1,1,1,1,1,0,1,2,28.4527426,77.0431979,0
+independent,3.6,19231,1809,5,5,3+,2,7,1 to 5 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,3,28.4601,77.02635,0
+independent,4.5,33333,1350,10,8,3+,4,0,1 to 5 Year Old,4,5,5,4,Fully Furnished,0,1,1,1,1,1,0,1,1.5,28.4601,77.02635,0
+Gated Community,8.6,12285,6430.5,4,5,3+,3,0,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,0,1,1,1,0,0,0,28.4159257,77.0290772,0
+Gated Community,9.55,19293,4950,6,7,3+,2,0,1 to 5 Year Old,3,4,4,4,Fully Furnished,1,1,1,0,0,0,0,0,3.5,28.4384785,77.0251655,0
+Gated Community,4.95,20599,2403,7,7,3+,2,4,10+ Year Old,4,4,5,4,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.4104903,77.0394627,0
+Gated Community,9.5,173992,546,6,6,3+,3,2,5 to 10 Year Old,3,4,4,4,Fully Furnished,0,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,5,21367,2340,7,7,3,2,2,5 to 10 Year Old,4,4,5,4,Fully Furnished,0,1,1,1,1,1,1,0,0,28.4601,77.02635,0
+Gated Community,4.75,20299,2340,7,7,3,2,2,5 to 10 Year Old,4,4,5,4,Fully Furnished,0,1,1,1,1,1,0,0,1,28.4601,77.02635,0
+Gated Community,1.15,41818,275,3,3,3,2,2,10+ Year Old,5,4,5,5,Fully Furnished,0,1,1,1,1,1,0,0,0,28.4601,77.02635,0
+Gated Community,6,9634,6228,4,5,3,2,2,5 to 10 Year Old,5,4,3,4,Unfurnished,0,1,1,1,1,0,0,0,0,28.462276,77.0410012,0
+Gated Community,9,19231,4680,5,5,2,2,1,10+ Year Old,5,5,5,4,Fully Furnished,1,1,1,0,0,0,0,0,3.5,28.5057113,77.0355986,0
+independent,3.6,20833,1728,4,4,2,2,4,10+ Year Old,4,4,4,4,Fully Furnished,1,1,1,0,0,0,0,0,3.5,28.4601,77.02635,0
+independent,9,33333,2700,5,5,2,3,6,10+ Year Old,5,5,5,5,Fully Furnished,1,1,1,0,0,0,0,0,3.5,28.4601,77.02635,0
+independent,2.2,6875,3200,12,12,3+,6,1,0 to 1 Year Old,5,5,5,4,Fully Furnished,0,1,0,1,1,0,0,0,0.5,28.4545693,77.0826249,0
+independent,3.3,14667,2250,3,3,2,1,2,10+ Year Old,5,5,5,5,Fully Furnished,0,0,1,1,1,1,1,0,0,28.4750063,77.0103535,0
+independent,3.5,14787,2367,5,4,2,2,1,10+ Year Old,4,4,5,4,Fully Furnished,1,0,1,1,1,1,0,0,1.5,28.4803924,77.0190946,0
+independent,2.35,16319,1440,4,4,2,2,0,10+ Year Old,5,5,5,5,Fully Furnished,1,0,1,1,1,1,0,0,1,28.4750063,77.0103535,0
+independent,15.7,18250,6430.5,7,9,3+,4,0,1 to 5 Year Old,5,5,5,5,Fully Furnished,1,0,0,1,1,0,0,0,3.5,28.4601,77.02635,0
+independent,5.3,27390,1935,9,9,3+,3,0,5 to 10 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,1,0,1,0.5,28.4601,77.02635,0
+Gated Community,6.25,30728,2034,7,7,3+,3,1,5 to 10 Year Old,5,5,5,4,Fully Furnished,1,0,0,1,1,0,1,1,2.5,28.4545693,77.0826249,0
+Gated Community,6.3,35000,1800,4,4,3+,2,0,10+ Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,0,0,1,1.5,28.4601,77.02635,0
+Gated Community,5.5,30556,1800,4,4,3+,2,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,2,28.4716216,77.1073561,0
+independent,11.75,41315,2844,4,5,3+,4,0,1 to 5 Year Old,5,4,5,5,Fully Furnished,1,0,0,1,1,0,0,0,2.5,28.4640865,77.0836441,0
+Gated Community,1.9,3786,5018,10,9,3+,3,1,1 to 5 Year Old,4,5,5,4,Fully Furnished,1,0,0,1,0,0,1,0,0.5,28.4601,77.02635,0
+Gated Community,10.8,60000,1800,4,4,3,2,1,1 to 5 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,0,0,1,3.5,28.4150509,77.0642955,0
+Gated Community,6.4,24691,2592,3,4,3,2,1,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,0,0,0,0,1,2.5,28.4104903,77.0394627,0
+Gated Community,1.15,9349,1230,2,2,3,2,1,1 to 5 Year Old,4,4,5,4,Fully Furnished,0,1,0,1,1,0,0,0,1,28.24737,77.06544,0
+independent,5.5,23504,2340,4,4,2,2,1,1 to 5 Year Old,4,4,5,4,Fully Furnished,0,0,1,1,1,0,0,0,0.5,28.4104903,77.0394627,0
+Gated Community,3.5,21605,1620,4,4,2,2,5,1 to 5 Year Old,4,4,5,4,Fully Furnished,0,0,1,1,1,0,0,0,1,28.4359133,77.0584045,0
+independent,3.75,234375,160,4,4,3,3,0,5 to 10 Year Old,4,5,4,4,Fully Furnished,0,1,1,0,0,1,0,0,0.5,28.441611,77.1118718,0
+independent,4.25,26235,1620,10,9,3+,4,1,5 to 10 Year Old,5,5,5,5,Fully Furnished,0,0,1,1,1,1,0,0,1.5,28.4597391,77.0612091,0
+independent,4,21786,1836,6,6,3+,4,2,10+ Year Old,4,4,5,4,Fully Furnished,1,1,1,0,0,0,0,1,3,28.4351423,77.0403538,0
+Gated Community,15.7,35000,6430.5,7,9,3+,3,2,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,0,1,1,1,1,0,0,3.5,28.6273247,75.96433886,1
+Gated Community,1.4,8235,1700,3,3,2,3,3,0 to 1 Year Old,4,4,4,4,Fully Furnished,0,1,0,1,1,0,0,1,1,28.3931076,76.9588762,0
+Gated Community,5,15432,3240,4,4,3+,3,0,1 to 5 Year Old,4,4,4,4,Fully Furnished,1,1,0,0,0,0,0,1,2.5,28.4601,77.02635,0
+independent,15.7,37627,4518,5,5,3+,2,2,1 to 5 Year Old,5,5,5,5,Fully Furnished,1,0,1,0,0,0,0,1,3.5,28.4714278,77.0939848,0
+Gated Community,9,21251,4235,4,4,3+,2,6,1 to 5 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,1,0,0,0,2.5,28.3974292,77.0538823,0
+Gated Community,1.65,30556,540,4,4,3+,4,7,5 to 10 Year Old,5,5,5,4,Fully Furnished,0,1,1,1,1,1,0,0,0.5,28.4601,77.02635,0
+Gated Community,11,27160,4050,5,6,3+,3,0,0 to 1 Year Old,5,5,5,4,Fully Furnished,1,1,1,0,0,0,0,1,1.5,28.4601,77.02635,0
+independent,11,35530,3096,5,5,3+,2,0,1 to 5 Year Old,5,5,5,5,Fully Furnished,1,0,0,1,1,0,0,0,3.5,28.483901,77.0846097,0
+Gated Community,3.75,22046,1701,3,3,1,2,4,10+ Year Old,4,4,5,5,Fully Furnished,0,1,0,0,0,0,0,0,1,28.4163341,77.0504907,0
+Gated Community,3.4,22222,1530,6,6,3+,2,7,5 to 10 Year Old,4,5,5,4,Fully Furnished,0,0,1,1,1,1,1,0,0,28.4253232,77.0985157,0
+independent,4.5,33333,1350,3,3,2,2,7,10+ Year Old,5,5,5,5,Fully Furnished,1,0,1,1,1,1,1,0,1,28.4714278,77.0939848,0
+independent,5.25,27132,1935,4,4,2,2,0,10+ Year Old,4,4,4,4,Fully Furnished,1,0,1,1,1,1,0,1,1.5,28.4601,77.02635,0
+independent,6.5,22855,2844,4,4,2,2,0,10+ Year Old,4,5,5,4,Fully Furnished,1,0,1,1,1,1,1,0,1,28.503445,77.0952048,0
+Gated Community,11,40741,2700,4,4,3+,2,1,5 to 10 Year Old,5,5,5,5,Fully Furnished,0,1,0,1,1,0,0,1,0.5,28.4601,77.02635,0
+Gated Community,7.5,34722,2160,3,3,2,2,7,5 to 10 Year Old,5,5,5,5,Fully Furnished,0,1,0,1,1,0,0,0,0.5,28.4601,77.02635,0
+independent,9.9,29333,3375,5,5,2,2,5,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,0,1,1,1,0,0,1,1,28.4601,77.02635,0
+Gated Community,6.75,32328,2088,4,4,3,3,7,1 to 5 Year Old,5,5,5,5,Fully Furnished,0,1,0,1,0,0,1,0,0.5,28.4601,77.02635,0
+Gated Community,6.75,290948,232,12,12,3+,2,7,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,3,28.4601,77.02635,0
+Gated Community,3.75,25562,1467,6,6,3+,3,0,5 to 10 Year Old,5,5,5,5,Fully Furnished,0,1,0,1,0,0,1,0,1,28.4601,77.02635,0
+independent,1.45,12393,1170,4,4,2,2,1,10+ Year Old,5,5,5,5,Fully Furnished,0,1,1,0,0,0,0,0,0.5,28.4601,77.02635,0
+independent,4.1,22331,1836,3,3,2,1,2,10+ Year Old,5,5,5,4,Fully Furnished,0,1,1,1,1,0,1,0,2.5,28.4601,77.02635,0
+independent,6.4,20317,3150,6,6,3+,3,1,10+ Year Old,4,5,5,4,Fully Furnished,0,1,1,1,1,1,1,0,0.5,28.4730128,77.0482686,0
+independent,3.5,18088,1935,6,4,2,2,7,10+ Year Old,4,5,5,4,Fully Furnished,0,1,1,1,1,1,1,0,0.5,28.4730128,77.0482686,0
+Gated Community,4.7,21759,2160,3,3,3+,3,0,0 to 1 Year Old,4,4,4,4,Fully Furnished,0,1,1,1,1,0,0,0,0.5,28.4601,77.02635,0
+independent,7.5,16600,4518,3,3,2,1,7,10+ Year Old,4,5,5,4,Fully Furnished,0,1,1,1,1,1,1,0,2.5,28.4730128,77.0482686,0
+Gated Community,5.5,21219,2592,3,6,2,2,1,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,0,0,1,1,28.4104903,77.0394627,0
+Gated Community,7.65,19125,4000,4,4,3,2,2,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,2,28.4104903,77.0394627,0
+Gated Community,5.15,18885,2727,5,7,3,2,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,0,0,0,0,1,1.5,28.4104903,77.0394627,0
+Gated Community,6.75,15000,4500,5,4,2,2,1,0 to 1 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,0.5,28.4601,77.02635,0
+independent,10,37037,2700,5,5,3+,3,0,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,0,0,1,1,1,0,0,1.5,28.4601,77.02635,0
+independent,8.5,18814,4518,4,4,2,2,7,10+ Year Old,5,5,5,5,Fully Furnished,0,0,1,1,1,1,1,0,2.5,28.4601,77.02635,0
+Gated Community,6.75,32328,2088,12,12,3+,3,1,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,1,1,0,3,28.4601,77.02635,0
+independent,9.5,23457,4050,8,8,3,3,7,1 to 5 Year Old,5,5,5,5,Fully Furnished,0,1,1,1,1,1,1,0,1,28.4758035,77.0607773,0
+independent,5.5,16975,3240,5,4,2,2,0,10+ Year Old,4,5,5,4,Fully Furnished,0,1,1,1,1,1,1,0,1,28.4601,77.02635,0
+independent,6.46,18889,3420,5,5,2,3,0,5 to 10 Year Old,4,5,5,4,Fully Furnished,0,1,1,1,1,1,1,0,2.5,28.4601,77.02635,0
+Gated Community,5.6,14000,4000,5,4,3+,33,2,0 to 1 Year Old,4,4,5,4,Fully Furnished,0,1,1,0,0,0,0,1,3.5,28.5060806,76.9967796,0
+independent,10.5,32407,3240,5,6,3+,3,0,0 to 1 Year Old,5,4,5,5,Fully Furnished,1,1,1,0,0,0,0,1,2.5,28.4640865,77.0836441,0
+independent,8,266666,300,5,4,3,2,1,1 to 5 Year Old,4,4,4,4,Fully Furnished,0,0,1,1,1,1,1,0,2.5,28.4232478,77.0804487,0
+Gated Community,6.44,26502,2430,4,5,3+,3,2,0 to 1 Year Old,5,4,3,4,Unfurnished,1,1,1,1,1,0,0,1,3.5,28.5109205,77.0065956,0
+independent,7.5,23148,3240,8,8,3+,3,2,1 to 5 Year Old,4,5,5,4,Fully Furnished,1,1,1,1,1,0,0,0,2.5,28.4253232,77.0985157,0
+Gated Community,7,32407,2160,4,4,2,2,0,10+ Year Old,5,5,5,5,Fully Furnished,0,1,1,1,1,0,0,1,0.5,28.4150509,77.0642955,0
+independent,11,33951,3240,13,13,3+,3,0,1 to 5 Year Old,5,4,5,5,Fully Furnished,1,1,1,1,1,0,0,1,2.5,28.4640865,77.0836441,0
+Gated Community,6.5,18808,3456,5,5,2,2,2,1 to 5 Year Old,5,5,5,5,Fully Furnished,0,1,1,1,1,0,0,0,2.5,28.4601,77.02635,0
+Gated Community,6.8,31481,2160,4,4,3+,2,5,10+ Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,0,0,0,2.5,28.4150509,77.0642955,0
+Gated Community,6.75,10838,6228,4,4,3+,2,2,0 to 1 Year Old,5,4,3,4,Fully Furnished,1,1,1,1,1,0,0,1,1.5,28.5109205,77.0065956,0
+Gated Community,4.7,19847,2368,6,6,3+,2,7,10+ Year Old,4,4,5,5,Fully Furnished,1,1,1,1,1,0,0,1,2,28.506318,77.0655182,0
+Gated Community,7.8,23148,3370,4,4,3+,2,2,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.4104903,77.0394627,0
+Gated Community,6.5,12037,5400,4,4,3+,1,2,0 to 1 Year Old,5,4,3,4,Fully Furnished,1,1,1,0,0,0,0,1,0.5,28.5109205,77.0065956,0
+Gated Community,8.5,17820,4770,5,5,3+,3,1,0 to 1 Year Old,3,4,4,4,Fully Furnished,1,1,1,0,0,0,0,1,3.5,28.4305338,77.0273826,0
+Gated Community,4.5,24390,1845,6,6,3+,3,2,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,0,0,0,1,27.45436,85.22301,-1
+independent,4.45,35185,1265,4,4,3,3,7,10+ Year Old,5,5,5,5,Fully Furnished,0,0,0,0,0,1,0,0,0,28.4714278,77.0939848,0
+Gated Community,3.6,19231,1809,5,8,3+,4,7,1 to 5 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,1,0,0,1,1.5,28.4384785,77.0251655,0
+Gated Community,3.8,26063,1458,8,8,3+,4,0,1 to 5 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,0,0,1,2,28.4601,77.02635,0
+independent,1,79365,126,2,2,0,0,0,10+ Year Old,4,4,4,4,Fully Furnished,0,0,1,0,0,1,0,0,1,28.4601,77.02635,0
+Gated Community,1.4,23932,585,8,8,3,4,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,0,1,1,1,1,1,1,0,0.5,27.45436,85.22301,-1
+Gated Community,11.5,24573,4680,5,6,3+,4,0,1 to 5 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,1,0,0,1,0.5,28.4384785,77.0251655,0
+Gated Community,3.5,24005,1458,3,2,3,2,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,0,0,0,1,28.4601,77.02635,0
+Gated Community,7.1,32870,2160,5,4,3,2,0,5 to 10 Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,0,0,0,3,27.45436,85.22301,-1
+Gated Community,9.5,33404,2844,9,9,3+,3,3,10+ Year Old,5,5,5,5,Fully Furnished,0,0,1,1,1,0,0,1,0.5,28.4601,77.02635,0
+Gated Community,11.75,23240,5056,5,7,3+,3,0,1 to 5 Year Old,3,4,4,4,Fully Furnished,1,1,0,1,1,0,0,1,0.5,28.4384785,77.0251655,0
+independent,4,29630,1350,4,4,3,2,1,10+ Year Old,5,5,5,5,Fully Furnished,1,0,1,0,0,0,0,0,1,28.4714278,77.0939848,0
+Gated Community,2.25,16071,1400,3,3,3,4,5,0 to 1 Year Old,4,5,5,4,Fully Furnished,1,1,0,1,1,0,0,0,0.5,28.4601,77.02635,0
+Gated Community,12.5,51440,2430,16,17,3+,4,4,1 to 5 Year Old,5,4,5,5,Fully Furnished,1,1,1,0,0,0,0,1,3,28.4640865,77.0836441,0
+Gated Community,11,26667,4125,5,6,3,3,0,0 to 1 Year Old,3,4,4,4,Fully Furnished,1,1,1,1,1,1,1,1,1.5,28.4419882,77.0340459,0
+Gated Community,4.3,28782,1494,9,9,3+,3,0,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,1.5,28.4601,77.02635,0
+Gated Community,7.45,34491,2160,4,4,3,3,0,10+ Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,0,0,0,0.5,28.4601,77.02635,0
+Gated Community,7.42,34351,2160,4,4,3,2,7,10+ Year Old,5,5,5,5,Fully Furnished,1,1,1,1,1,0,0,0,0,28.4601,77.02635,0
+Gated Community,9.25,47803,1935,12,12,3+,4,2,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,0,1,1,0,1,0,1.5,28.4601,77.02635,0
+independent,1.2,6230,1926,3,2,2,3,0,0 to 1 Year Old,5,4,4,5,Fully Furnished,1,1,1,1,1,0,0,1,0,28.5056942,77.0463022,0
+independent,6.09,33665,1809,12,11,3+,4,7,5 to 10 Year Old,5,4,5,5,Fully Furnished,1,1,1,1,1,1,1,0,1,28.4234344,77.0468649,0
+independent,5,44444,1125,9,9,3+,5,0,0 to 1 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,0.5,28.4274166,77.1097538,0
+Gated Community,3.6,19231,1809,4,4,3+,3,1,0 to 1 Year Old,3,4,4,4,Fully Furnished,0,1,1,1,0,0,0,1,3.5,28.3974292,77.0538823,0
+Gated Community,3.6,19231,1809,5,5,3,2,0,1 to 5 Year Old,3,4,4,4,Fully Furnished,1,1,1,0,0,0,0,0,0,28.3974292,77.0538823,0
+Gated Community,2.98,20566,1449,6,6,3+,3,0,1 to 5 Year Old,5,5,5,5,Unfurnished,1,1,1,1,1,0,0,0,2,28.47919,77.0704879,0
+Gated Community,4,22222,1800,9,9,3+,2,0,1 to 5 Year Old,4,4,5,4,Fully Furnished,1,1,1,0,0,0,0,1,2,28.4601,77.02635,0
+independent,2.4,26667,900,4,4,3,3,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,0,0,1,1,1,0,0,0,1,28.4359133,77.0584045,0
+independent,3.15,20349,1548,5,4,3+,2,2,5 to 10 Year Old,4,4,4,4,Fully Furnished,0,0,1,1,1,0,0,0,1,28.4232478,77.0804487,0
+independent,4.25,23148,1836,5,4,2,3,2,5 to 10 Year Old,4,4,5,4,Fully Furnished,0,0,1,1,0,0,1,0,1,28.4359133,77.0584045,0
+independent,5,21124,2367,9,9,3+,3,5,1 to 5 Year Old,4,4,4,4,Fully Furnished,1,0,1,1,0,0,0,0,1,28.4500427,77.0577093,0
+independent,2.2,24202,909,3,3,2,3,3,10+ Year Old,4,4,5,4,Fully Furnished,0,0,1,1,0,0,1,0,1,28.4359133,77.0584045,0
+independent,3.5,24155,1449,4,3,3,2,6,5 to 10 Year Old,5,5,5,4,Fully Furnished,1,0,1,1,1,0,0,0,1,28.4540044,77.0497179,0
+independent,5.65,23870,2367,8,6,3+,3,6,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,0,1,1,1,0,1,0,0.5,28.4359133,77.0584045,0
+independent,3.55,24500,1449,5,4,3+,3,3,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,0,0,1,1,0,1,0,0.5,28.4359133,77.0584045,0
+independent,3.6,24845,1449,5,5,3+,3,5,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,0,1,1,1,0,0,0,0.5,28.4359133,77.0584045,0
+independent,3.1,20026,1548,5,4,3+,2,2,5 to 10 Year Old,4,4,5,4,Fully Furnished,0,0,1,1,0,0,1,0,1.5,28.4545693,77.0826249,0
+independent,4.75,28787,1650,3,3,3,2,3,5 to 10 Year Old,4,4,4,4,Fully Furnished,1,1,1,1,1,0,0,1,1,28.6273247,75.96433886,1
+Gated Community,3.05,12551,2430,3,3,2,2,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,0,0,0,0,1,3,28.4601,77.02635,0
+Gated Community,5.5,30556,1800,4,4,3,2,2,5 to 10 Year Old,4,4,5,4,Fully Furnished,0,1,1,1,1,0,0,0,2.5,28.4779375,77.1032425,0
+Gated Community,4.25,31481,1350,3,2,3,2,1,10+ Year Old,5,5,5,5,Fully Furnished,0,1,1,1,1,1,1,0,1,28.483901,77.0846097,0
+Gated Community,4.5,33333,1350,3,3,2,2,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,1,0,1.5,28.4779375,77.1032425,0
+Gated Community,3.25,33129,981,3,3,3,2,7,10+ Year Old,4,4,5,4,Fully Furnished,1,1,1,1,1,1,0,1,1,28.4779375,77.1032425,0
+Gated Community,3.6,14815,2430,3,3,2,2,0,5 to 10 Year Old,4,4,5,4,Fully Furnished,1,1,1,0,0,0,0,1,3,28.4601,77.02635,0
