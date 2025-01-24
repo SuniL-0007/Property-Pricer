@@ -1,4 +1,4 @@
 pandas
 joblib
 streamlit
-sklearn
+skikit-learn
