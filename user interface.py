@@ -5,7 +5,7 @@ from sklearn.preprocessing import StandardScaler, LabelEncoder
 
 model = joblib.load("D:\sunil\Projects\ML project\ensemble_model_best.pkl")
 
-dataset = pd.read_csv("D:\sunil\Projects\ML project\Final_Data.csv")
+dataset = pd.read_csv("Final_Data.csv")
 
 dataset = dataset.drop(columns=['price'])
 
