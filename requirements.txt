@@ -2,3 +2,4 @@ pandas
 joblib
 streamlit
 skikit-learn
+xgb_pipe
